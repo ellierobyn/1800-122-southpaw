@@ -1,0 +1,1037 @@
+INFO: kbplacer_plugin_action.py:73: Plugin version: 0.19
+INFO: kbplacer_plugin_action.py:74: Python version: '3.11.5 (main, Jan 23 2026, 07:39:48) [MSC v.1944 64 bit (AMD64)]'
+INFO: kbplacer_plugin_action.py:75: KiCad version: 10.0.1 with 4.2.2 msw (phoenix) wxWidgets 3.3.2
+INFO: kbplacer_dialog.py:799: Language: en
+INFO: kbplacer_plugin_action.py:83: GUI state: {"layout_path": "D:\\Projects\\1. KEEB\\1800-122\\1800-122-KLE-DATA.json", "key_distance": [19.05, 19.05], "key_info": {"annotation_format": "K_{}", "position_option": "Default", "position": {"x": 0.0, "y": 0.0, "orientation": 0.0, "side": "Back"}, "template_path": "", "start_index": 1}, "enable_diode_placement": true, "route_switches_with_diodes": true, "optimize_diodes_orientation": false, "diode_info": {"annotation_format": "D{}", "position_option": "Default", "position": {"x": 5.08, "y": 4.0, "orientation": 90.0, "side": "Back"}, "template_path": "", "start_index": -1}, "additional_elements": [{"annotation_format": "ST{}", "position_option": "Custom", "position": {"x": 0.0, "y": 0.0, "orientation": 0.0, "side": "Front"}, "template_path": "", "start_index": -1}], "route_rows_and_columns": true, "template_path": "", "generate_outline": false, "outline_delta": 0.0, "layout_offset": null}
+DEBUG: key_placer.py:153: Switches by nets: defaultdict(<class 'list'>, {frozenset({'unconnected-(K_128-COL-Pad1)', 'unconnected-(K_128-ROW-Pad2)'}): ['K_128'], frozenset({'unconnected-(K_127-ROW-Pad2)', 'unconnected-(K_127-COL-Pad1)'}): ['K_127'], frozenset({'unconnected-(K_126-ROW-Pad2)', 'unconnected-(K_126-COL-Pad1)'}): ['K_126'], frozenset({'unconnected-(K_125-ROW-Pad2)', 'unconnected-(K_125-COL-Pad1)'}): ['K_125'], frozenset({'unconnected-(K_124-COL-Pad1)', 'unconnected-(K_124-ROW-Pad2)'}): ['K_124'], frozenset({'unconnected-(K_123-COL-Pad1)', 'unconnected-(K_123-ROW-Pad2)'}): ['K_123'], frozenset({'unconnected-(K_122-ROW-Pad2)', 'unconnected-(K_122-COL-Pad1)'}): ['K_122'], frozenset({'unconnected-(K_121-COL-Pad1)', 'unconnected-(K_121-ROW-Pad2)'}): ['K_121'], frozenset({'unconnected-(K_120-ROW-Pad2)', 'unconnected-(K_120-COL-Pad1)'}): ['K_120'], frozenset({'unconnected-(K_119-COL-Pad1)', 'unconnected-(K_119-ROW-Pad2)'}): ['K_119'], frozenset({'unconnected-(K_118-COL-Pad1)', 'unconnected-(K_118-ROW-Pad2)'}): ['K_118'], frozenset({'unconnected-(K_117-COL-Pad1)', 'unconnected-(K_117-ROW-Pad2)'}): ['K_117'], frozenset({'unconnected-(K_116-COL-Pad1)', 'unconnected-(K_116-ROW-Pad2)'}): ['K_116'], frozenset({'unconnected-(K_115-COL-Pad1)', 'unconnected-(K_115-ROW-Pad2)'}): ['K_115'], frozenset({'unconnected-(K_114-COL-Pad1)', 'unconnected-(K_114-ROW-Pad2)'}): ['K_114'], frozenset({'unconnected-(K_113-ROW-Pad2)', 'unconnected-(K_113-COL-Pad1)'}): ['K_113'], frozenset({'unconnected-(K_112-ROW-Pad2)', 'unconnected-(K_112-COL-Pad1)'}): ['K_112'], frozenset({'unconnected-(K_111-COL-Pad1)', 'unconnected-(K_111-ROW-Pad2)'}): ['K_111'], frozenset({'unconnected-(K_110-ROW-Pad2)', 'unconnected-(K_110-COL-Pad1)'}): ['K_110'], frozenset({'unconnected-(K_109-ROW-Pad2)', 'unconnected-(K_109-COL-Pad1)'}): ['K_109'], frozenset({'unconnected-(K_108-ROW-Pad2)', 'unconnected-(K_108-COL-Pad1)'}): ['K_108'], frozenset({'unconnected-(K_107-ROW-Pad2)', 'unconnected-(K_107-COL-Pad1)'}): ['K_107'], frozenset({'unconnected-(K_106-COL-Pad1)', 'unconnected-(K_106-ROW-Pad2)'}): ['K_106'], frozenset({'unconnected-(K_105-COL-Pad1)', 'unconnected-(K_105-ROW-Pad2)'}): ['K_105'], frozenset({'unconnected-(K_104-COL-Pad1)', 'unconnected-(K_104-ROW-Pad2)'}): ['K_104'], frozenset({'unconnected-(K_103-ROW-Pad2)', 'unconnected-(K_103-COL-Pad1)'}): ['K_103'], frozenset({'unconnected-(K_102-COL-Pad1)', 'unconnected-(K_102-ROW-Pad2)'}): ['K_102'], frozenset({'unconnected-(K_101-COL-Pad1)', 'unconnected-(K_101-ROW-Pad2)'}): ['K_101'], frozenset({'unconnected-(K_100-ROW-Pad2)', 'unconnected-(K_100-COL-Pad1)'}): ['K_100'], frozenset({'unconnected-(K_99-ROW-Pad2)', 'unconnected-(K_99-COL-Pad1)'}): ['K_99'], frozenset({'unconnected-(K_98-ROW-Pad2)', 'unconnected-(K_98-COL-Pad1)'}): ['K_98'], frozenset({'unconnected-(K_97-COL-Pad1)', 'unconnected-(K_97-ROW-Pad2)'}): ['K_97'], frozenset({'unconnected-(K_96-ROW-Pad2)', 'unconnected-(K_96-COL-Pad1)'}): ['K_96'], frozenset({'unconnected-(K_95-COL-Pad1)', 'unconnected-(K_95-ROW-Pad2)'}): ['K_95'], frozenset({'unconnected-(K_94-ROW-Pad2)', 'unconnected-(K_94-COL-Pad1)'}): ['K_94'], frozenset({'unconnected-(K_93-ROW-Pad2)', 'unconnected-(K_93-COL-Pad1)'}): ['K_93'], frozenset({'unconnected-(K_92-COL-Pad1)', 'unconnected-(K_92-ROW-Pad2)'}): ['K_92'], frozenset({'unconnected-(K_91-COL-Pad1)', 'unconnected-(K_91-ROW-Pad2)'}): ['K_91'], frozenset({'unconnected-(K_90-ROW-Pad2)', 'unconnected-(K_90-COL-Pad1)'}): ['K_90'], frozenset({'unconnected-(K_89-ROW-Pad2)', 'unconnected-(K_89-COL-Pad1)'}): ['K_89'], frozenset({'unconnected-(K_88-COL-Pad1)', 'unconnected-(K_88-ROW-Pad2)'}): ['K_88'], frozenset({'unconnected-(K_87-ROW-Pad2)', 'unconnected-(K_87-COL-Pad1)'}): ['K_87'], frozenset({'unconnected-(K_86-ROW-Pad2)', 'unconnected-(K_86-COL-Pad1)'}): ['K_86'], frozenset({'unconnected-(K_85-ROW-Pad2)', 'unconnected-(K_85-COL-Pad1)'}): ['K_85'], frozenset({'unconnected-(K_84-ROW-Pad2)', 'unconnected-(K_84-COL-Pad1)'}): ['K_84'], frozenset({'unconnected-(K_83-COL-Pad1)', 'unconnected-(K_83-ROW-Pad2)'}): ['K_83'], frozenset({'unconnected-(K_82-ROW-Pad2)', 'unconnected-(K_82-COL-Pad1)'}): ['K_82'], frozenset({'unconnected-(K_81-ROW-Pad2)', 'unconnected-(K_81-COL-Pad1)'}): ['K_81'], frozenset({'unconnected-(K_80-ROW-Pad2)', 'unconnected-(K_80-COL-Pad1)'}): ['K_80'], frozenset({'unconnected-(K_79-ROW-Pad2)', 'unconnected-(K_79-COL-Pad1)'}): ['K_79'], frozenset({'unconnected-(K_78-ROW-Pad2)', 'unconnected-(K_78-COL-Pad1)'}): ['K_78'], frozenset({'unconnected-(K_77-COL-Pad1)', 'unconnected-(K_77-ROW-Pad2)'}): ['K_77'], frozenset({'unconnected-(K_76-ROW-Pad2)', 'unconnected-(K_76-COL-Pad1)'}): ['K_76'], frozenset({'unconnected-(K_75-COL-Pad1)', 'unconnected-(K_75-ROW-Pad2)'}): ['K_75'], frozenset({'unconnected-(K_74-COL-Pad1)', 'unconnected-(K_74-ROW-Pad2)'}): ['K_74'], frozenset({'unconnected-(K_73-ROW-Pad2)', 'unconnected-(K_73-COL-Pad1)'}): ['K_73'], frozenset({'unconnected-(K_72-ROW-Pad2)', 'unconnected-(K_72-COL-Pad1)'}): ['K_72'], frozenset({'unconnected-(K_71-ROW-Pad2)', 'unconnected-(K_71-COL-Pad1)'}): ['K_71'], frozenset({'unconnected-(K_70-COL-Pad1)', 'unconnected-(K_70-ROW-Pad2)'}): ['K_70'], frozenset({'unconnected-(K_69-ROW-Pad2)', 'unconnected-(K_69-COL-Pad1)'}): ['K_69'], frozenset({'unconnected-(K_68-ROW-Pad2)', 'unconnected-(K_68-COL-Pad1)'}): ['K_68'], frozenset({'unconnected-(K_67-COL-Pad1)', 'unconnected-(K_67-ROW-Pad2)'}): ['K_67'], frozenset({'unconnected-(K_66-COL-Pad1)', 'unconnected-(K_66-ROW-Pad2)'}): ['K_66'], frozenset({'unconnected-(K_65-ROW-Pad2)', 'unconnected-(K_65-COL-Pad1)'}): ['K_65'], frozenset({'unconnected-(K_64-COL-Pad1)', 'unconnected-(K_64-ROW-Pad2)'}): ['K_64'], frozenset({'unconnected-(K_63-COL-Pad1)', 'unconnected-(K_63-ROW-Pad2)'}): ['K_63'], frozenset({'unconnected-(K_62-COL-Pad1)', 'unconnected-(K_62-ROW-Pad2)'}): ['K_62'], frozenset({'unconnected-(K_61-COL-Pad1)', 'unconnected-(K_61-ROW-Pad2)'}): ['K_61'], frozenset({'unconnected-(K_60-COL-Pad1)', 'unconnected-(K_60-ROW-Pad2)'}): ['K_60'], frozenset({'unconnected-(K_59-ROW-Pad2)', 'unconnected-(K_59-COL-Pad1)'}): ['K_59'], frozenset({'unconnected-(K_58-ROW-Pad2)', 'unconnected-(K_58-COL-Pad1)'}): ['K_58'], frozenset({'unconnected-(K_57-ROW-Pad2)', 'unconnected-(K_57-COL-Pad1)'}): ['K_57'], frozenset({'unconnected-(K_56-COL-Pad1)', 'unconnected-(K_56-ROW-Pad2)'}): ['K_56'], frozenset({'unconnected-(K_55-ROW-Pad2)', 'unconnected-(K_55-COL-Pad1)'}): ['K_55'], frozenset({'unconnected-(K_54-ROW-Pad2)', 'unconnected-(K_54-COL-Pad1)'}): ['K_54'], frozenset({'unconnected-(K_53-ROW-Pad2)', 'unconnected-(K_53-COL-Pad1)'}): ['K_53'], frozenset({'unconnected-(K_52-COL-Pad1)', 'unconnected-(K_52-ROW-Pad2)'}): ['K_52'], frozenset({'unconnected-(K_51-COL-Pad1)', 'unconnected-(K_51-ROW-Pad2)'}): ['K_51'], frozenset({'unconnected-(K_50-ROW-Pad2)', 'unconnected-(K_50-COL-Pad1)'}): ['K_50'], frozenset({'unconnected-(K_49-COL-Pad1)', 'unconnected-(K_49-ROW-Pad2)'}): ['K_49'], frozenset({'unconnected-(K_48-COL-Pad1)', 'unconnected-(K_48-ROW-Pad2)'}): ['K_48'], frozenset({'unconnected-(K_47-COL-Pad1)', 'unconnected-(K_47-ROW-Pad2)'}): ['K_47'], frozenset({'unconnected-(K_46-ROW-Pad2)', 'unconnected-(K_46-COL-Pad1)'}): ['K_46'], frozenset({'unconnected-(K_45-COL-Pad1)', 'unconnected-(K_45-ROW-Pad2)'}): ['K_45'], frozenset({'unconnected-(K_44-ROW-Pad2)', 'unconnected-(K_44-COL-Pad1)'}): ['K_44'], frozenset({'unconnected-(K_43-COL-Pad1)', 'unconnected-(K_43-ROW-Pad2)'}): ['K_43'], frozenset({'unconnected-(K_42-ROW-Pad2)', 'unconnected-(K_42-COL-Pad1)'}): ['K_42'], frozenset({'unconnected-(K_41-ROW-Pad2)', 'unconnected-(K_41-COL-Pad1)'}): ['K_41'], frozenset({'unconnected-(K_40-COL-Pad1)', 'unconnected-(K_40-ROW-Pad2)'}): ['K_40'], frozenset({'unconnected-(K_39-COL-Pad1)', 'unconnected-(K_39-ROW-Pad2)'}): ['K_39'], frozenset({'unconnected-(K_38-COL-Pad1)', 'unconnected-(K_38-ROW-Pad2)'}): ['K_38'], frozenset({'unconnected-(K_37-COL-Pad1)', 'unconnected-(K_37-ROW-Pad2)'}): ['K_37'], frozenset({'unconnected-(K_36-ROW-Pad2)', 'unconnected-(K_36-COL-Pad1)'}): ['K_36'], frozenset({'unconnected-(K_35-COL-Pad1)', 'unconnected-(K_35-ROW-Pad2)'}): ['K_35'], frozenset({'unconnected-(K_34-COL-Pad1)', 'unconnected-(K_34-ROW-Pad2)'}): ['K_34'], frozenset({'unconnected-(K_33-ROW-Pad2)', 'unconnected-(K_33-COL-Pad1)'}): ['K_33'], frozenset({'unconnected-(K_32-ROW-Pad2)', 'unconnected-(K_32-COL-Pad1)'}): ['K_32'], frozenset({'unconnected-(K_31-ROW-Pad2)', 'unconnected-(K_31-COL-Pad1)'}): ['K_31'], frozenset({'unconnected-(K_30-COL-Pad1)', 'unconnected-(K_30-ROW-Pad2)'}): ['K_30'], frozenset({'unconnected-(K_29-COL-Pad1)', 'unconnected-(K_29-ROW-Pad2)'}): ['K_29'], frozenset({'unconnected-(K_28-ROW-Pad2)', 'unconnected-(K_28-COL-Pad1)'}): ['K_28'], frozenset({'unconnected-(K_27-COL-Pad1)', 'unconnected-(K_27-ROW-Pad2)'}): ['K_27'], frozenset({'unconnected-(K_26-ROW-Pad2)', 'unconnected-(K_26-COL-Pad1)'}): ['K_26'], frozenset({'unconnected-(K_25-ROW-Pad2)', 'unconnected-(K_25-COL-Pad1)'}): ['K_25'], frozenset({'unconnected-(K_24-COL-Pad1)', 'unconnected-(K_24-ROW-Pad2)'}): ['K_24'], frozenset({'unconnected-(K_23-COL-Pad1)', 'unconnected-(K_23-ROW-Pad2)'}): ['K_23'], frozenset({'unconnected-(K_22-COL-Pad1)', 'unconnected-(K_22-ROW-Pad2)'}): ['K_22'], frozenset({'unconnected-(K_21-ROW-Pad2)', 'unconnected-(K_21-COL-Pad1)'}): ['K_21'], frozenset({'unconnected-(K_20-ROW-Pad2)', 'unconnected-(K_20-COL-Pad1)'}): ['K_20'], frozenset({'unconnected-(K_19-COL-Pad1)', 'unconnected-(K_19-ROW-Pad2)'}): ['K_19'], frozenset({'unconnected-(K_18-COL-Pad1)', 'unconnected-(K_18-ROW-Pad2)'}): ['K_18'], frozenset({'unconnected-(K_17-COL-Pad1)', 'unconnected-(K_17-ROW-Pad2)'}): ['K_17'], frozenset({'unconnected-(K_16-COL-Pad1)', 'unconnected-(K_16-ROW-Pad2)'}): ['K_16'], frozenset({'unconnected-(K_15-ROW-Pad2)', 'unconnected-(K_15-COL-Pad1)'}): ['K_15'], frozenset({'unconnected-(K_14-ROW-Pad2)', 'unconnected-(K_14-COL-Pad1)'}): ['K_14'], frozenset({'unconnected-(K_13-COL-Pad1)', 'unconnected-(K_13-ROW-Pad2)'}): ['K_13'], frozenset({'unconnected-(K_12-ROW-Pad2)', 'unconnected-(K_12-COL-Pad1)'}): ['K_12'], frozenset({'unconnected-(K_11-ROW-Pad2)', 'unconnected-(K_11-COL-Pad1)'}): ['K_11'], frozenset({'unconnected-(K_10-ROW-Pad2)', 'unconnected-(K_10-COL-Pad1)'}): ['K_10'], frozenset({'unconnected-(K_9-COL-Pad1)', 'unconnected-(K_9-ROW-Pad2)'}): ['K_9'], frozenset({'unconnected-(K_8-ROW-Pad2)', 'unconnected-(K_8-COL-Pad1)'}): ['K_8'], frozenset({'unconnected-(K_7-COL-Pad1)', 'unconnected-(K_7-ROW-Pad2)'}): ['K_7'], frozenset({'unconnected-(K_6-ROW-Pad2)', 'unconnected-(K_6-COL-Pad1)'}): ['K_6'], frozenset({'unconnected-(K_5-COL-Pad1)', 'unconnected-(K_5-ROW-Pad2)'}): ['K_5'], frozenset({'unconnected-(K_4-COL-Pad1)', 'unconnected-(K_4-ROW-Pad2)'}): ['K_4'], frozenset({'unconnected-(K_3-COL-Pad1)', 'unconnected-(K_3-ROW-Pad2)'}): ['K_3'], frozenset({'unconnected-(K_2-COL-Pad1)', 'unconnected-(K_2-ROW-Pad2)'}): ['K_2'], frozenset({'unconnected-(K_1-COL-Pad1)', 'unconnected-(K_1-ROW-Pad2)'}): ['K_1']})
+DEBUG: key_placer.py:157: Diodes by switch: {}
+INFO: key_placer.py:785: Using key 1U distance: (19.05, 19.05) mm
+INFO: key_placer.py:803: Layout offset: (28575000, 28575000)
+DEBUG: kle_serial.py:1131: Layout with: x_ortholinear_keys=49, y_ortholinear_keys=37, rotated_keys=0, encoders=0, iso_enters=0 and unrecognized_shape_keys=0
+DEBUG: kle_serial.py:1156: Layout tagged: [<KeyboardTag.ROW_STAGGERED: 2>]
+DEBUG: board_modifier.py:119: Setting K_1 footprint position: (38100000, 38100000)
+DEBUG: board_modifier.py:119: Setting K_2 footprint position: (76200000, 38100000)
+DEBUG: board_modifier.py:119: Setting K_3 footprint position: (95250000, 38100000)
+DEBUG: board_modifier.py:119: Setting K_4 footprint position: (114300000, 38100000)
+DEBUG: board_modifier.py:119: Setting K_5 footprint position: (133350000, 38100000)
+DEBUG: board_modifier.py:119: Setting K_6 footprint position: (152400000, 38100000)
+DEBUG: board_modifier.py:119: Setting K_7 footprint position: (171450000, 38100000)
+DEBUG: board_modifier.py:119: Setting K_8 footprint position: (204787500, 38100000)
+DEBUG: board_modifier.py:119: Setting K_9 footprint position: (223837500, 38100000)
+DEBUG: board_modifier.py:119: Setting K_10 footprint position: (242887500, 38100000)
+DEBUG: board_modifier.py:119: Setting K_11 footprint position: (261937500, 38100000)
+DEBUG: board_modifier.py:119: Setting K_12 footprint position: (280987500, 38100000)
+DEBUG: board_modifier.py:119: Setting K_13 footprint position: (300037500, 38100000)
+DEBUG: board_modifier.py:119: Setting K_14 footprint position: (333375000, 38100000)
+DEBUG: board_modifier.py:119: Setting K_15 footprint position: (352425000, 38100000)
+DEBUG: board_modifier.py:119: Setting K_16 footprint position: (371475000, 38100000)
+DEBUG: board_modifier.py:119: Setting K_17 footprint position: (390525000, 38100000)
+DEBUG: board_modifier.py:119: Setting K_18 footprint position: (409575000, 38100000)
+DEBUG: board_modifier.py:119: Setting K_19 footprint position: (428625000, 38100000)
+DEBUG: board_modifier.py:119: Setting K_20 footprint position: (76200000, 57150000)
+DEBUG: board_modifier.py:119: Setting K_21 footprint position: (95250000, 57150000)
+DEBUG: board_modifier.py:119: Setting K_22 footprint position: (114300000, 57150000)
+DEBUG: board_modifier.py:119: Setting K_23 footprint position: (133350000, 57150000)
+DEBUG: board_modifier.py:119: Setting K_24 footprint position: (152400000, 57150000)
+DEBUG: board_modifier.py:119: Setting K_25 footprint position: (171450000, 57150000)
+DEBUG: board_modifier.py:119: Setting K_26 footprint position: (204787500, 57150000)
+DEBUG: board_modifier.py:119: Setting K_27 footprint position: (223837500, 57150000)
+DEBUG: board_modifier.py:119: Setting K_28 footprint position: (242887500, 57150000)
+DEBUG: board_modifier.py:119: Setting K_29 footprint position: (261937500, 57150000)
+DEBUG: board_modifier.py:119: Setting K_30 footprint position: (280987500, 57150000)
+DEBUG: board_modifier.py:119: Setting K_31 footprint position: (300037500, 57150000)
+DEBUG: board_modifier.py:119: Setting K_32 footprint position: (333375000, 57150000)
+DEBUG: board_modifier.py:119: Setting K_33 footprint position: (352425000, 57150000)
+DEBUG: board_modifier.py:119: Setting K_34 footprint position: (371475000, 57150000)
+DEBUG: board_modifier.py:119: Setting K_35 footprint position: (390525000, 57150000)
+DEBUG: board_modifier.py:119: Setting K_36 footprint position: (409575000, 57150000)
+DEBUG: board_modifier.py:119: Setting K_37 footprint position: (428625000, 57150000)
+DEBUG: board_modifier.py:119: Setting K_38 footprint position: (38100000, 85725000)
+DEBUG: board_modifier.py:119: Setting K_39 footprint position: (57150000, 85725000)
+DEBUG: board_modifier.py:119: Setting K_40 footprint position: (76200000, 85725000)
+DEBUG: board_modifier.py:119: Setting K_41 footprint position: (95250000, 85725000)
+DEBUG: board_modifier.py:119: Setting K_42 footprint position: (119062500, 85725000)
+DEBUG: board_modifier.py:119: Setting K_43 footprint position: (138112500, 85725000)
+DEBUG: board_modifier.py:119: Setting K_44 footprint position: (157162500, 85725000)
+DEBUG: board_modifier.py:119: Setting K_45 footprint position: (176212500, 85725000)
+DEBUG: board_modifier.py:119: Setting K_46 footprint position: (195262500, 85725000)
+DEBUG: board_modifier.py:119: Setting K_47 footprint position: (214312500, 85725000)
+DEBUG: board_modifier.py:119: Setting K_48 footprint position: (233362500, 85725000)
+DEBUG: board_modifier.py:119: Setting K_49 footprint position: (252412500, 85725000)
+DEBUG: board_modifier.py:119: Setting K_50 footprint position: (271462500, 85725000)
+DEBUG: board_modifier.py:119: Setting K_51 footprint position: (290512500, 85725000)
+DEBUG: board_modifier.py:119: Setting K_52 footprint position: (309562500, 85725000)
+DEBUG: board_modifier.py:119: Setting K_53 footprint position: (328612500, 85725000)
+DEBUG: board_modifier.py:119: Setting K_54 footprint position: (347662500, 85725000)
+DEBUG: board_modifier.py:119: Setting K_55 footprint position: (376237500, 85725000)
+DEBUG: board_modifier.py:119: Setting K_56 footprint position: (409575000, 85725000)
+DEBUG: board_modifier.py:119: Setting K_57 footprint position: (428625000, 85725000)
+DEBUG: board_modifier.py:119: Setting K_58 footprint position: (447675000, 85725000)
+DEBUG: board_modifier.py:119: Setting K_59 footprint position: (38100000, 104775000)
+DEBUG: board_modifier.py:119: Setting K_60 footprint position: (57150000, 104775000)
+DEBUG: board_modifier.py:119: Setting K_61 footprint position: (76200000, 104775000)
+DEBUG: board_modifier.py:119: Setting K_62 footprint position: (95250000, 104775000)
+DEBUG: board_modifier.py:119: Setting K_63 footprint position: (123825000, 104775000)
+DEBUG: board_modifier.py:119: Setting K_64 footprint position: (147637500, 104775000)
+DEBUG: board_modifier.py:119: Setting K_65 footprint position: (166687500, 104775000)
+DEBUG: board_modifier.py:119: Setting K_66 footprint position: (185737500, 104775000)
+DEBUG: board_modifier.py:119: Setting K_67 footprint position: (204787500, 104775000)
+DEBUG: board_modifier.py:119: Setting K_68 footprint position: (223837500, 104775000)
+DEBUG: board_modifier.py:119: Setting K_69 footprint position: (242887500, 104775000)
+DEBUG: board_modifier.py:119: Setting K_70 footprint position: (261937500, 104775000)
+DEBUG: board_modifier.py:119: Setting K_71 footprint position: (280987500, 104775000)
+DEBUG: board_modifier.py:119: Setting K_72 footprint position: (300037500, 104775000)
+DEBUG: board_modifier.py:119: Setting K_73 footprint position: (319087500, 104775000)
+DEBUG: board_modifier.py:119: Setting K_74 footprint position: (338137500, 104775000)
+DEBUG: board_modifier.py:119: Setting K_75 footprint position: (357187500, 104775000)
+DEBUG: board_modifier.py:119: Setting K_76 footprint position: (381000000, 104775000)
+DEBUG: board_modifier.py:119: Setting K_77 footprint position: (409575000, 104775000)
+DEBUG: board_modifier.py:119: Setting K_78 footprint position: (428625000, 104775000)
+DEBUG: board_modifier.py:119: Setting K_79 footprint position: (447675000, 104775000)
+DEBUG: board_modifier.py:119: Setting K_80 footprint position: (38100000, 123825000)
+DEBUG: board_modifier.py:119: Setting K_81 footprint position: (57150000, 123825000)
+DEBUG: board_modifier.py:119: Setting K_82 footprint position: (76200000, 123825000)
+DEBUG: board_modifier.py:119: Setting K_83 footprint position: (95250000, 123825000)
+DEBUG: board_modifier.py:119: Setting K_84 footprint position: (126206250, 123825000)
+DEBUG: board_modifier.py:119: Setting K_85 footprint position: (152400000, 123825000)
+DEBUG: board_modifier.py:119: Setting K_86 footprint position: (171450000, 123825000)
+DEBUG: board_modifier.py:119: Setting K_87 footprint position: (190500000, 123825000)
+DEBUG: board_modifier.py:119: Setting K_88 footprint position: (209550000, 123825000)
+DEBUG: board_modifier.py:119: Setting K_89 footprint position: (228600000, 123825000)
+DEBUG: board_modifier.py:119: Setting K_90 footprint position: (247650000, 123825000)
+DEBUG: board_modifier.py:119: Setting K_91 footprint position: (266700000, 123825000)
+DEBUG: board_modifier.py:119: Setting K_92 footprint position: (285750000, 123825000)
+DEBUG: board_modifier.py:119: Setting K_93 footprint position: (304800000, 123825000)
+DEBUG: board_modifier.py:119: Setting K_94 footprint position: (323850000, 123825000)
+DEBUG: board_modifier.py:119: Setting K_95 footprint position: (342900000, 123825000)
+DEBUG: board_modifier.py:119: Setting K_96 footprint position: (373856250, 123825000)
+DEBUG: board_modifier.py:119: Setting K_97 footprint position: (409575000, 123825000)
+DEBUG: board_modifier.py:119: Setting K_98 footprint position: (428625000, 123825000)
+DEBUG: board_modifier.py:119: Setting K_99 footprint position: (447675000, 123825000)
+DEBUG: board_modifier.py:119: Setting K_100 footprint position: (38100000, 142875000)
+DEBUG: board_modifier.py:119: Setting K_101 footprint position: (57150000, 142875000)
+DEBUG: board_modifier.py:119: Setting K_102 footprint position: (76200000, 142875000)
+DEBUG: board_modifier.py:119: Setting K_103 footprint position: (95250000, 152400000)
+DEBUG: board_modifier.py:119: Setting K_104 footprint position: (130968750, 142875000)
+DEBUG: board_modifier.py:119: Setting K_105 footprint position: (161925000, 142875000)
+DEBUG: board_modifier.py:119: Setting K_106 footprint position: (180975000, 142875000)
+DEBUG: board_modifier.py:119: Setting K_107 footprint position: (200025000, 142875000)
+DEBUG: board_modifier.py:119: Setting K_108 footprint position: (219075000, 142875000)
+DEBUG: board_modifier.py:119: Setting K_109 footprint position: (238125000, 142875000)
+DEBUG: board_modifier.py:119: Setting K_110 footprint position: (257175000, 142875000)
+DEBUG: board_modifier.py:119: Setting K_111 footprint position: (276225000, 142875000)
+DEBUG: board_modifier.py:119: Setting K_112 footprint position: (295275000, 142875000)
+DEBUG: board_modifier.py:119: Setting K_113 footprint position: (314325000, 142875000)
+DEBUG: board_modifier.py:119: Setting K_114 footprint position: (333375000, 142875000)
+DEBUG: board_modifier.py:119: Setting K_115 footprint position: (364331250, 142875000)
+DEBUG: board_modifier.py:119: Setting K_116 footprint position: (400050000, 147637500)
+DEBUG: board_modifier.py:119: Setting K_117 footprint position: (47625000, 161925000)
+DEBUG: board_modifier.py:119: Setting K_118 footprint position: (76200000, 161925000)
+DEBUG: board_modifier.py:119: Setting K_119 footprint position: (121443750, 161925000)
+DEBUG: board_modifier.py:119: Setting K_120 footprint position: (145256250, 161925000)
+DEBUG: board_modifier.py:119: Setting K_121 footprint position: (169068750, 161925000)
+DEBUG: board_modifier.py:119: Setting K_122 footprint position: (190500000, 161925000)
+DEBUG: board_modifier.py:119: Setting K_123 footprint position: (259556250, 161925000)
+DEBUG: board_modifier.py:119: Setting K_124 footprint position: (330993750, 161925000)
+DEBUG: board_modifier.py:119: Setting K_125 footprint position: (354806250, 161925000)
+DEBUG: board_modifier.py:119: Setting K_126 footprint position: (381000000, 166687500)
+DEBUG: board_modifier.py:119: Setting K_127 footprint position: (400050000, 166687500)
+DEBUG: board_modifier.py:119: Setting K_128 footprint position: (419100000, 166687500)
+INFO: key_placer.py:1238: Diode info: [ElementInfo(annotation_format='D{}', position_option=<PositionOption.DEFAULT: 'Default'>, position=ElementPosition(x=5.08, y=4.0, orientation=90.0, side=<Side.BACK: 'Back'>), template_path='', start_index=-1)]
+DEBUG: board_modifier.py:132: Getting K_1 footprint position: (38100000, 38100000)
+DEBUG: board_modifier.py:132: Getting K_2 footprint position: (76200000, 38100000)
+DEBUG: board_modifier.py:132: Getting K_3 footprint position: (95250000, 38100000)
+DEBUG: board_modifier.py:132: Getting K_4 footprint position: (114300000, 38100000)
+DEBUG: board_modifier.py:132: Getting K_5 footprint position: (133350000, 38100000)
+DEBUG: board_modifier.py:132: Getting K_6 footprint position: (152400000, 38100000)
+DEBUG: board_modifier.py:132: Getting K_7 footprint position: (171450000, 38100000)
+DEBUG: board_modifier.py:132: Getting K_8 footprint position: (204787500, 38100000)
+DEBUG: board_modifier.py:132: Getting K_9 footprint position: (223837500, 38100000)
+DEBUG: board_modifier.py:132: Getting K_10 footprint position: (242887500, 38100000)
+DEBUG: board_modifier.py:132: Getting K_11 footprint position: (261937500, 38100000)
+DEBUG: board_modifier.py:132: Getting K_12 footprint position: (280987500, 38100000)
+DEBUG: board_modifier.py:132: Getting K_13 footprint position: (300037500, 38100000)
+DEBUG: board_modifier.py:132: Getting K_14 footprint position: (333375000, 38100000)
+DEBUG: board_modifier.py:132: Getting K_15 footprint position: (352425000, 38100000)
+DEBUG: board_modifier.py:132: Getting K_16 footprint position: (371475000, 38100000)
+DEBUG: board_modifier.py:132: Getting K_17 footprint position: (390525000, 38100000)
+DEBUG: board_modifier.py:132: Getting K_18 footprint position: (409575000, 38100000)
+DEBUG: board_modifier.py:132: Getting K_19 footprint position: (428625000, 38100000)
+DEBUG: board_modifier.py:132: Getting K_20 footprint position: (76200000, 57150000)
+DEBUG: board_modifier.py:132: Getting K_21 footprint position: (95250000, 57150000)
+DEBUG: board_modifier.py:132: Getting K_22 footprint position: (114300000, 57150000)
+DEBUG: board_modifier.py:132: Getting K_23 footprint position: (133350000, 57150000)
+DEBUG: board_modifier.py:132: Getting K_24 footprint position: (152400000, 57150000)
+DEBUG: board_modifier.py:132: Getting K_25 footprint position: (171450000, 57150000)
+DEBUG: board_modifier.py:132: Getting K_26 footprint position: (204787500, 57150000)
+DEBUG: board_modifier.py:132: Getting K_27 footprint position: (223837500, 57150000)
+DEBUG: board_modifier.py:132: Getting K_28 footprint position: (242887500, 57150000)
+DEBUG: board_modifier.py:132: Getting K_29 footprint position: (261937500, 57150000)
+DEBUG: board_modifier.py:132: Getting K_30 footprint position: (280987500, 57150000)
+DEBUG: board_modifier.py:132: Getting K_31 footprint position: (300037500, 57150000)
+DEBUG: board_modifier.py:132: Getting K_32 footprint position: (333375000, 57150000)
+DEBUG: board_modifier.py:132: Getting K_33 footprint position: (352425000, 57150000)
+DEBUG: board_modifier.py:132: Getting K_34 footprint position: (371475000, 57150000)
+DEBUG: board_modifier.py:132: Getting K_35 footprint position: (390525000, 57150000)
+DEBUG: board_modifier.py:132: Getting K_36 footprint position: (409575000, 57150000)
+DEBUG: board_modifier.py:132: Getting K_37 footprint position: (428625000, 57150000)
+DEBUG: board_modifier.py:132: Getting K_38 footprint position: (38100000, 85725000)
+DEBUG: board_modifier.py:132: Getting K_39 footprint position: (57150000, 85725000)
+DEBUG: board_modifier.py:132: Getting K_40 footprint position: (76200000, 85725000)
+DEBUG: board_modifier.py:132: Getting K_41 footprint position: (95250000, 85725000)
+DEBUG: board_modifier.py:132: Getting K_42 footprint position: (119062500, 85725000)
+DEBUG: board_modifier.py:132: Getting K_43 footprint position: (138112500, 85725000)
+DEBUG: board_modifier.py:132: Getting K_44 footprint position: (157162500, 85725000)
+DEBUG: board_modifier.py:132: Getting K_45 footprint position: (176212500, 85725000)
+DEBUG: board_modifier.py:132: Getting K_46 footprint position: (195262500, 85725000)
+DEBUG: board_modifier.py:132: Getting K_47 footprint position: (214312500, 85725000)
+DEBUG: board_modifier.py:132: Getting K_48 footprint position: (233362500, 85725000)
+DEBUG: board_modifier.py:132: Getting K_49 footprint position: (252412500, 85725000)
+DEBUG: board_modifier.py:132: Getting K_50 footprint position: (271462500, 85725000)
+DEBUG: board_modifier.py:132: Getting K_51 footprint position: (290512500, 85725000)
+DEBUG: board_modifier.py:132: Getting K_52 footprint position: (309562500, 85725000)
+DEBUG: board_modifier.py:132: Getting K_53 footprint position: (328612500, 85725000)
+DEBUG: board_modifier.py:132: Getting K_54 footprint position: (347662500, 85725000)
+DEBUG: board_modifier.py:132: Getting K_55 footprint position: (376237500, 85725000)
+DEBUG: board_modifier.py:132: Getting K_56 footprint position: (409575000, 85725000)
+DEBUG: board_modifier.py:132: Getting K_57 footprint position: (428625000, 85725000)
+DEBUG: board_modifier.py:132: Getting K_58 footprint position: (447675000, 85725000)
+DEBUG: board_modifier.py:132: Getting K_59 footprint position: (38100000, 104775000)
+DEBUG: board_modifier.py:132: Getting K_60 footprint position: (57150000, 104775000)
+DEBUG: board_modifier.py:132: Getting K_61 footprint position: (76200000, 104775000)
+DEBUG: board_modifier.py:132: Getting K_62 footprint position: (95250000, 104775000)
+DEBUG: board_modifier.py:132: Getting K_63 footprint position: (123825000, 104775000)
+DEBUG: board_modifier.py:132: Getting K_64 footprint position: (147637500, 104775000)
+DEBUG: board_modifier.py:132: Getting K_65 footprint position: (166687500, 104775000)
+DEBUG: board_modifier.py:132: Getting K_66 footprint position: (185737500, 104775000)
+DEBUG: board_modifier.py:132: Getting K_67 footprint position: (204787500, 104775000)
+DEBUG: board_modifier.py:132: Getting K_68 footprint position: (223837500, 104775000)
+DEBUG: board_modifier.py:132: Getting K_69 footprint position: (242887500, 104775000)
+DEBUG: board_modifier.py:132: Getting K_70 footprint position: (261937500, 104775000)
+DEBUG: board_modifier.py:132: Getting K_71 footprint position: (280987500, 104775000)
+DEBUG: board_modifier.py:132: Getting K_72 footprint position: (300037500, 104775000)
+DEBUG: board_modifier.py:132: Getting K_73 footprint position: (319087500, 104775000)
+DEBUG: board_modifier.py:132: Getting K_74 footprint position: (338137500, 104775000)
+DEBUG: board_modifier.py:132: Getting K_75 footprint position: (357187500, 104775000)
+DEBUG: board_modifier.py:132: Getting K_76 footprint position: (381000000, 104775000)
+DEBUG: board_modifier.py:132: Getting K_77 footprint position: (409575000, 104775000)
+DEBUG: board_modifier.py:132: Getting K_78 footprint position: (428625000, 104775000)
+DEBUG: board_modifier.py:132: Getting K_79 footprint position: (447675000, 104775000)
+DEBUG: board_modifier.py:132: Getting K_80 footprint position: (38100000, 123825000)
+DEBUG: board_modifier.py:132: Getting K_81 footprint position: (57150000, 123825000)
+DEBUG: board_modifier.py:132: Getting K_82 footprint position: (76200000, 123825000)
+DEBUG: board_modifier.py:132: Getting K_83 footprint position: (95250000, 123825000)
+DEBUG: board_modifier.py:132: Getting K_84 footprint position: (126206250, 123825000)
+DEBUG: board_modifier.py:132: Getting K_85 footprint position: (152400000, 123825000)
+DEBUG: board_modifier.py:132: Getting K_86 footprint position: (171450000, 123825000)
+DEBUG: board_modifier.py:132: Getting K_87 footprint position: (190500000, 123825000)
+DEBUG: board_modifier.py:132: Getting K_88 footprint position: (209550000, 123825000)
+DEBUG: board_modifier.py:132: Getting K_89 footprint position: (228600000, 123825000)
+DEBUG: board_modifier.py:132: Getting K_90 footprint position: (247650000, 123825000)
+DEBUG: board_modifier.py:132: Getting K_91 footprint position: (266700000, 123825000)
+DEBUG: board_modifier.py:132: Getting K_92 footprint position: (285750000, 123825000)
+DEBUG: board_modifier.py:132: Getting K_93 footprint position: (304800000, 123825000)
+DEBUG: board_modifier.py:132: Getting K_94 footprint position: (323850000, 123825000)
+DEBUG: board_modifier.py:132: Getting K_95 footprint position: (342900000, 123825000)
+DEBUG: board_modifier.py:132: Getting K_96 footprint position: (373856250, 123825000)
+DEBUG: board_modifier.py:132: Getting K_97 footprint position: (409575000, 123825000)
+DEBUG: board_modifier.py:132: Getting K_98 footprint position: (428625000, 123825000)
+DEBUG: board_modifier.py:132: Getting K_99 footprint position: (447675000, 123825000)
+DEBUG: board_modifier.py:132: Getting K_100 footprint position: (38100000, 142875000)
+DEBUG: board_modifier.py:132: Getting K_101 footprint position: (57150000, 142875000)
+DEBUG: board_modifier.py:132: Getting K_102 footprint position: (76200000, 142875000)
+DEBUG: board_modifier.py:132: Getting K_103 footprint position: (95250000, 152400000)
+DEBUG: board_modifier.py:132: Getting K_104 footprint position: (130968750, 142875000)
+DEBUG: board_modifier.py:132: Getting K_105 footprint position: (161925000, 142875000)
+DEBUG: board_modifier.py:132: Getting K_106 footprint position: (180975000, 142875000)
+DEBUG: board_modifier.py:132: Getting K_107 footprint position: (200025000, 142875000)
+DEBUG: board_modifier.py:132: Getting K_108 footprint position: (219075000, 142875000)
+DEBUG: board_modifier.py:132: Getting K_109 footprint position: (238125000, 142875000)
+DEBUG: board_modifier.py:132: Getting K_110 footprint position: (257175000, 142875000)
+DEBUG: board_modifier.py:132: Getting K_111 footprint position: (276225000, 142875000)
+DEBUG: board_modifier.py:132: Getting K_112 footprint position: (295275000, 142875000)
+DEBUG: board_modifier.py:132: Getting K_113 footprint position: (314325000, 142875000)
+DEBUG: board_modifier.py:132: Getting K_114 footprint position: (333375000, 142875000)
+DEBUG: board_modifier.py:132: Getting K_115 footprint position: (364331250, 142875000)
+DEBUG: board_modifier.py:132: Getting K_116 footprint position: (400050000, 147637500)
+DEBUG: board_modifier.py:132: Getting K_117 footprint position: (47625000, 161925000)
+DEBUG: board_modifier.py:132: Getting K_118 footprint position: (76200000, 161925000)
+DEBUG: board_modifier.py:132: Getting K_119 footprint position: (121443750, 161925000)
+DEBUG: board_modifier.py:132: Getting K_120 footprint position: (145256250, 161925000)
+DEBUG: board_modifier.py:132: Getting K_121 footprint position: (169068750, 161925000)
+DEBUG: board_modifier.py:132: Getting K_122 footprint position: (190500000, 161925000)
+DEBUG: board_modifier.py:132: Getting K_123 footprint position: (259556250, 161925000)
+DEBUG: board_modifier.py:132: Getting K_124 footprint position: (330993750, 161925000)
+DEBUG: board_modifier.py:132: Getting K_125 footprint position: (354806250, 161925000)
+DEBUG: board_modifier.py:132: Getting K_126 footprint position: (381000000, 166687500)
+DEBUG: board_modifier.py:132: Getting K_127 footprint position: (400050000, 166687500)
+DEBUG: board_modifier.py:132: Getting K_128 footprint position: (419100000, 166687500)
+INFO: key_placer.py:979: Placing additional elements for K_128
+DEBUG: board_modifier.py:132: Getting K_128 footprint position: (419100000, 166687500)
+DEBUG: board_modifier.py:84: Searching for optional ST128 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_127
+DEBUG: board_modifier.py:132: Getting K_127 footprint position: (400050000, 166687500)
+DEBUG: board_modifier.py:84: Searching for optional ST127 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_126
+DEBUG: board_modifier.py:132: Getting K_126 footprint position: (381000000, 166687500)
+DEBUG: board_modifier.py:84: Searching for optional ST126 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_125
+DEBUG: board_modifier.py:132: Getting K_125 footprint position: (354806250, 161925000)
+DEBUG: board_modifier.py:84: Searching for optional ST125 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_124
+DEBUG: board_modifier.py:132: Getting K_124 footprint position: (330993750, 161925000)
+DEBUG: board_modifier.py:84: Searching for optional ST124 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_123
+DEBUG: board_modifier.py:132: Getting K_123 footprint position: (259556250, 161925000)
+DEBUG: board_modifier.py:84: Searching for optional ST123 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_122
+DEBUG: board_modifier.py:132: Getting K_122 footprint position: (190500000, 161925000)
+DEBUG: board_modifier.py:84: Searching for optional ST122 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_121
+DEBUG: board_modifier.py:132: Getting K_121 footprint position: (169068750, 161925000)
+DEBUG: board_modifier.py:84: Searching for optional ST121 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_120
+DEBUG: board_modifier.py:132: Getting K_120 footprint position: (145256250, 161925000)
+DEBUG: board_modifier.py:84: Searching for optional ST120 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_119
+DEBUG: board_modifier.py:132: Getting K_119 footprint position: (121443750, 161925000)
+DEBUG: board_modifier.py:84: Searching for optional ST119 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_118
+DEBUG: board_modifier.py:132: Getting K_118 footprint position: (76200000, 161925000)
+DEBUG: board_modifier.py:84: Searching for optional ST118 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_117
+DEBUG: board_modifier.py:132: Getting K_117 footprint position: (47625000, 161925000)
+DEBUG: board_modifier.py:84: Searching for optional ST117 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_116
+DEBUG: board_modifier.py:132: Getting K_116 footprint position: (400050000, 147637500)
+DEBUG: board_modifier.py:84: Searching for optional ST116 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_115
+DEBUG: board_modifier.py:132: Getting K_115 footprint position: (364331250, 142875000)
+DEBUG: board_modifier.py:84: Searching for optional ST115 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_114
+DEBUG: board_modifier.py:132: Getting K_114 footprint position: (333375000, 142875000)
+DEBUG: board_modifier.py:84: Searching for optional ST114 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_113
+DEBUG: board_modifier.py:132: Getting K_113 footprint position: (314325000, 142875000)
+DEBUG: board_modifier.py:84: Searching for optional ST113 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_112
+DEBUG: board_modifier.py:132: Getting K_112 footprint position: (295275000, 142875000)
+DEBUG: board_modifier.py:84: Searching for optional ST112 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_111
+DEBUG: board_modifier.py:132: Getting K_111 footprint position: (276225000, 142875000)
+DEBUG: board_modifier.py:84: Searching for optional ST111 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_110
+DEBUG: board_modifier.py:132: Getting K_110 footprint position: (257175000, 142875000)
+DEBUG: board_modifier.py:84: Searching for optional ST110 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_109
+DEBUG: board_modifier.py:132: Getting K_109 footprint position: (238125000, 142875000)
+DEBUG: board_modifier.py:84: Searching for optional ST109 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_108
+DEBUG: board_modifier.py:132: Getting K_108 footprint position: (219075000, 142875000)
+DEBUG: board_modifier.py:84: Searching for optional ST108 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_107
+DEBUG: board_modifier.py:132: Getting K_107 footprint position: (200025000, 142875000)
+DEBUG: board_modifier.py:84: Searching for optional ST107 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_106
+DEBUG: board_modifier.py:132: Getting K_106 footprint position: (180975000, 142875000)
+DEBUG: board_modifier.py:84: Searching for optional ST106 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_105
+DEBUG: board_modifier.py:132: Getting K_105 footprint position: (161925000, 142875000)
+DEBUG: board_modifier.py:84: Searching for optional ST105 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_104
+DEBUG: board_modifier.py:132: Getting K_104 footprint position: (130968750, 142875000)
+DEBUG: board_modifier.py:84: Searching for optional ST104 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_103
+DEBUG: board_modifier.py:132: Getting K_103 footprint position: (95250000, 152400000)
+DEBUG: board_modifier.py:84: Searching for optional ST103 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_102
+DEBUG: board_modifier.py:132: Getting K_102 footprint position: (76200000, 142875000)
+DEBUG: board_modifier.py:84: Searching for optional ST102 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_101
+DEBUG: board_modifier.py:132: Getting K_101 footprint position: (57150000, 142875000)
+DEBUG: board_modifier.py:84: Searching for optional ST101 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_100
+DEBUG: board_modifier.py:132: Getting K_100 footprint position: (38100000, 142875000)
+DEBUG: board_modifier.py:84: Searching for optional ST100 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_99
+DEBUG: board_modifier.py:132: Getting K_99 footprint position: (447675000, 123825000)
+DEBUG: board_modifier.py:84: Searching for optional ST99 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_98
+DEBUG: board_modifier.py:132: Getting K_98 footprint position: (428625000, 123825000)
+DEBUG: board_modifier.py:84: Searching for optional ST98 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_97
+DEBUG: board_modifier.py:132: Getting K_97 footprint position: (409575000, 123825000)
+DEBUG: board_modifier.py:84: Searching for optional ST97 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_96
+DEBUG: board_modifier.py:132: Getting K_96 footprint position: (373856250, 123825000)
+DEBUG: board_modifier.py:84: Searching for optional ST96 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_95
+DEBUG: board_modifier.py:132: Getting K_95 footprint position: (342900000, 123825000)
+DEBUG: board_modifier.py:84: Searching for optional ST95 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_94
+DEBUG: board_modifier.py:132: Getting K_94 footprint position: (323850000, 123825000)
+DEBUG: board_modifier.py:84: Searching for optional ST94 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_93
+DEBUG: board_modifier.py:132: Getting K_93 footprint position: (304800000, 123825000)
+DEBUG: board_modifier.py:84: Searching for optional ST93 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_92
+DEBUG: board_modifier.py:132: Getting K_92 footprint position: (285750000, 123825000)
+DEBUG: board_modifier.py:84: Searching for optional ST92 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_91
+DEBUG: board_modifier.py:132: Getting K_91 footprint position: (266700000, 123825000)
+DEBUG: board_modifier.py:84: Searching for optional ST91 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_90
+DEBUG: board_modifier.py:132: Getting K_90 footprint position: (247650000, 123825000)
+DEBUG: board_modifier.py:84: Searching for optional ST90 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_89
+DEBUG: board_modifier.py:132: Getting K_89 footprint position: (228600000, 123825000)
+DEBUG: board_modifier.py:84: Searching for optional ST89 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_88
+DEBUG: board_modifier.py:132: Getting K_88 footprint position: (209550000, 123825000)
+DEBUG: board_modifier.py:84: Searching for optional ST88 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_87
+DEBUG: board_modifier.py:132: Getting K_87 footprint position: (190500000, 123825000)
+DEBUG: board_modifier.py:84: Searching for optional ST87 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_86
+DEBUG: board_modifier.py:132: Getting K_86 footprint position: (171450000, 123825000)
+DEBUG: board_modifier.py:84: Searching for optional ST86 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_85
+DEBUG: board_modifier.py:132: Getting K_85 footprint position: (152400000, 123825000)
+DEBUG: board_modifier.py:84: Searching for optional ST85 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_84
+DEBUG: board_modifier.py:132: Getting K_84 footprint position: (126206250, 123825000)
+DEBUG: board_modifier.py:84: Searching for optional ST84 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_83
+DEBUG: board_modifier.py:132: Getting K_83 footprint position: (95250000, 123825000)
+DEBUG: board_modifier.py:84: Searching for optional ST83 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_82
+DEBUG: board_modifier.py:132: Getting K_82 footprint position: (76200000, 123825000)
+DEBUG: board_modifier.py:84: Searching for optional ST82 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_81
+DEBUG: board_modifier.py:132: Getting K_81 footprint position: (57150000, 123825000)
+DEBUG: board_modifier.py:84: Searching for optional ST81 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_80
+DEBUG: board_modifier.py:132: Getting K_80 footprint position: (38100000, 123825000)
+DEBUG: board_modifier.py:84: Searching for optional ST80 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_79
+DEBUG: board_modifier.py:132: Getting K_79 footprint position: (447675000, 104775000)
+DEBUG: board_modifier.py:84: Searching for optional ST79 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_78
+DEBUG: board_modifier.py:132: Getting K_78 footprint position: (428625000, 104775000)
+DEBUG: board_modifier.py:84: Searching for optional ST78 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_77
+DEBUG: board_modifier.py:132: Getting K_77 footprint position: (409575000, 104775000)
+DEBUG: board_modifier.py:84: Searching for optional ST77 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_76
+DEBUG: board_modifier.py:132: Getting K_76 footprint position: (381000000, 104775000)
+DEBUG: board_modifier.py:84: Searching for optional ST76 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_75
+DEBUG: board_modifier.py:132: Getting K_75 footprint position: (357187500, 104775000)
+DEBUG: board_modifier.py:84: Searching for optional ST75 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_74
+DEBUG: board_modifier.py:132: Getting K_74 footprint position: (338137500, 104775000)
+DEBUG: board_modifier.py:84: Searching for optional ST74 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_73
+DEBUG: board_modifier.py:132: Getting K_73 footprint position: (319087500, 104775000)
+DEBUG: board_modifier.py:84: Searching for optional ST73 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_72
+DEBUG: board_modifier.py:132: Getting K_72 footprint position: (300037500, 104775000)
+DEBUG: board_modifier.py:84: Searching for optional ST72 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_71
+DEBUG: board_modifier.py:132: Getting K_71 footprint position: (280987500, 104775000)
+DEBUG: board_modifier.py:84: Searching for optional ST71 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_70
+DEBUG: board_modifier.py:132: Getting K_70 footprint position: (261937500, 104775000)
+DEBUG: board_modifier.py:84: Searching for optional ST70 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_69
+DEBUG: board_modifier.py:132: Getting K_69 footprint position: (242887500, 104775000)
+DEBUG: board_modifier.py:84: Searching for optional ST69 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_68
+DEBUG: board_modifier.py:132: Getting K_68 footprint position: (223837500, 104775000)
+DEBUG: board_modifier.py:84: Searching for optional ST68 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_67
+DEBUG: board_modifier.py:132: Getting K_67 footprint position: (204787500, 104775000)
+DEBUG: board_modifier.py:84: Searching for optional ST67 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_66
+DEBUG: board_modifier.py:132: Getting K_66 footprint position: (185737500, 104775000)
+DEBUG: board_modifier.py:84: Searching for optional ST66 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_65
+DEBUG: board_modifier.py:132: Getting K_65 footprint position: (166687500, 104775000)
+DEBUG: board_modifier.py:84: Searching for optional ST65 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_64
+DEBUG: board_modifier.py:132: Getting K_64 footprint position: (147637500, 104775000)
+DEBUG: board_modifier.py:84: Searching for optional ST64 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_63
+DEBUG: board_modifier.py:132: Getting K_63 footprint position: (123825000, 104775000)
+DEBUG: board_modifier.py:84: Searching for optional ST63 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_62
+DEBUG: board_modifier.py:132: Getting K_62 footprint position: (95250000, 104775000)
+DEBUG: board_modifier.py:84: Searching for optional ST62 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_61
+DEBUG: board_modifier.py:132: Getting K_61 footprint position: (76200000, 104775000)
+DEBUG: board_modifier.py:84: Searching for optional ST61 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_60
+DEBUG: board_modifier.py:132: Getting K_60 footprint position: (57150000, 104775000)
+DEBUG: board_modifier.py:84: Searching for optional ST60 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_59
+DEBUG: board_modifier.py:132: Getting K_59 footprint position: (38100000, 104775000)
+DEBUG: board_modifier.py:84: Searching for optional ST59 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_58
+DEBUG: board_modifier.py:132: Getting K_58 footprint position: (447675000, 85725000)
+DEBUG: board_modifier.py:84: Searching for optional ST58 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_57
+DEBUG: board_modifier.py:132: Getting K_57 footprint position: (428625000, 85725000)
+DEBUG: board_modifier.py:84: Searching for optional ST57 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_56
+DEBUG: board_modifier.py:132: Getting K_56 footprint position: (409575000, 85725000)
+DEBUG: board_modifier.py:84: Searching for optional ST56 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_55
+DEBUG: board_modifier.py:132: Getting K_55 footprint position: (376237500, 85725000)
+DEBUG: board_modifier.py:84: Searching for optional ST55 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_54
+DEBUG: board_modifier.py:132: Getting K_54 footprint position: (347662500, 85725000)
+DEBUG: board_modifier.py:84: Searching for optional ST54 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_53
+DEBUG: board_modifier.py:132: Getting K_53 footprint position: (328612500, 85725000)
+DEBUG: board_modifier.py:84: Searching for optional ST53 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_52
+DEBUG: board_modifier.py:132: Getting K_52 footprint position: (309562500, 85725000)
+DEBUG: board_modifier.py:84: Searching for optional ST52 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_51
+DEBUG: board_modifier.py:132: Getting K_51 footprint position: (290512500, 85725000)
+DEBUG: board_modifier.py:84: Searching for optional ST51 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_50
+DEBUG: board_modifier.py:132: Getting K_50 footprint position: (271462500, 85725000)
+DEBUG: board_modifier.py:84: Searching for optional ST50 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_49
+DEBUG: board_modifier.py:132: Getting K_49 footprint position: (252412500, 85725000)
+DEBUG: board_modifier.py:84: Searching for optional ST49 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_48
+DEBUG: board_modifier.py:132: Getting K_48 footprint position: (233362500, 85725000)
+DEBUG: board_modifier.py:84: Searching for optional ST48 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_47
+DEBUG: board_modifier.py:132: Getting K_47 footprint position: (214312500, 85725000)
+DEBUG: board_modifier.py:84: Searching for optional ST47 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_46
+DEBUG: board_modifier.py:132: Getting K_46 footprint position: (195262500, 85725000)
+DEBUG: board_modifier.py:84: Searching for optional ST46 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_45
+DEBUG: board_modifier.py:132: Getting K_45 footprint position: (176212500, 85725000)
+DEBUG: board_modifier.py:84: Searching for optional ST45 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_44
+DEBUG: board_modifier.py:132: Getting K_44 footprint position: (157162500, 85725000)
+DEBUG: board_modifier.py:84: Searching for optional ST44 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_43
+DEBUG: board_modifier.py:132: Getting K_43 footprint position: (138112500, 85725000)
+DEBUG: board_modifier.py:84: Searching for optional ST43 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_42
+DEBUG: board_modifier.py:132: Getting K_42 footprint position: (119062500, 85725000)
+DEBUG: board_modifier.py:84: Searching for optional ST42 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_41
+DEBUG: board_modifier.py:132: Getting K_41 footprint position: (95250000, 85725000)
+DEBUG: board_modifier.py:84: Searching for optional ST41 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_40
+DEBUG: board_modifier.py:132: Getting K_40 footprint position: (76200000, 85725000)
+DEBUG: board_modifier.py:84: Searching for optional ST40 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_39
+DEBUG: board_modifier.py:132: Getting K_39 footprint position: (57150000, 85725000)
+DEBUG: board_modifier.py:84: Searching for optional ST39 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_38
+DEBUG: board_modifier.py:132: Getting K_38 footprint position: (38100000, 85725000)
+DEBUG: board_modifier.py:84: Searching for optional ST38 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_37
+DEBUG: board_modifier.py:132: Getting K_37 footprint position: (428625000, 57150000)
+DEBUG: board_modifier.py:84: Searching for optional ST37 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_36
+DEBUG: board_modifier.py:132: Getting K_36 footprint position: (409575000, 57150000)
+DEBUG: board_modifier.py:84: Searching for optional ST36 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_35
+DEBUG: board_modifier.py:132: Getting K_35 footprint position: (390525000, 57150000)
+DEBUG: board_modifier.py:84: Searching for optional ST35 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_34
+DEBUG: board_modifier.py:132: Getting K_34 footprint position: (371475000, 57150000)
+DEBUG: board_modifier.py:84: Searching for optional ST34 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_33
+DEBUG: board_modifier.py:132: Getting K_33 footprint position: (352425000, 57150000)
+DEBUG: board_modifier.py:84: Searching for optional ST33 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_32
+DEBUG: board_modifier.py:132: Getting K_32 footprint position: (333375000, 57150000)
+DEBUG: board_modifier.py:84: Searching for optional ST32 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_31
+DEBUG: board_modifier.py:132: Getting K_31 footprint position: (300037500, 57150000)
+DEBUG: board_modifier.py:84: Searching for optional ST31 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_30
+DEBUG: board_modifier.py:132: Getting K_30 footprint position: (280987500, 57150000)
+DEBUG: board_modifier.py:84: Searching for optional ST30 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_29
+DEBUG: board_modifier.py:132: Getting K_29 footprint position: (261937500, 57150000)
+DEBUG: board_modifier.py:84: Searching for optional ST29 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_28
+DEBUG: board_modifier.py:132: Getting K_28 footprint position: (242887500, 57150000)
+DEBUG: board_modifier.py:84: Searching for optional ST28 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_27
+DEBUG: board_modifier.py:132: Getting K_27 footprint position: (223837500, 57150000)
+DEBUG: board_modifier.py:84: Searching for optional ST27 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_26
+DEBUG: board_modifier.py:132: Getting K_26 footprint position: (204787500, 57150000)
+DEBUG: board_modifier.py:84: Searching for optional ST26 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_25
+DEBUG: board_modifier.py:132: Getting K_25 footprint position: (171450000, 57150000)
+DEBUG: board_modifier.py:84: Searching for optional ST25 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_24
+DEBUG: board_modifier.py:132: Getting K_24 footprint position: (152400000, 57150000)
+DEBUG: board_modifier.py:84: Searching for optional ST24 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_23
+DEBUG: board_modifier.py:132: Getting K_23 footprint position: (133350000, 57150000)
+DEBUG: board_modifier.py:84: Searching for optional ST23 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_22
+DEBUG: board_modifier.py:132: Getting K_22 footprint position: (114300000, 57150000)
+DEBUG: board_modifier.py:84: Searching for optional ST22 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_21
+DEBUG: board_modifier.py:132: Getting K_21 footprint position: (95250000, 57150000)
+DEBUG: board_modifier.py:84: Searching for optional ST21 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_20
+DEBUG: board_modifier.py:132: Getting K_20 footprint position: (76200000, 57150000)
+DEBUG: board_modifier.py:84: Searching for optional ST20 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_19
+DEBUG: board_modifier.py:132: Getting K_19 footprint position: (428625000, 38100000)
+DEBUG: board_modifier.py:84: Searching for optional ST19 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_18
+DEBUG: board_modifier.py:132: Getting K_18 footprint position: (409575000, 38100000)
+DEBUG: board_modifier.py:84: Searching for optional ST18 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_17
+DEBUG: board_modifier.py:132: Getting K_17 footprint position: (390525000, 38100000)
+DEBUG: board_modifier.py:84: Searching for optional ST17 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_16
+DEBUG: board_modifier.py:132: Getting K_16 footprint position: (371475000, 38100000)
+DEBUG: board_modifier.py:84: Searching for optional ST16 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_15
+DEBUG: board_modifier.py:132: Getting K_15 footprint position: (352425000, 38100000)
+DEBUG: board_modifier.py:84: Searching for optional ST15 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_14
+DEBUG: board_modifier.py:132: Getting K_14 footprint position: (333375000, 38100000)
+DEBUG: board_modifier.py:84: Searching for optional ST14 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_13
+DEBUG: board_modifier.py:132: Getting K_13 footprint position: (300037500, 38100000)
+DEBUG: board_modifier.py:84: Searching for optional ST13 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_12
+DEBUG: board_modifier.py:132: Getting K_12 footprint position: (280987500, 38100000)
+DEBUG: board_modifier.py:84: Searching for optional ST12 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_11
+DEBUG: board_modifier.py:132: Getting K_11 footprint position: (261937500, 38100000)
+DEBUG: board_modifier.py:84: Searching for optional ST11 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_10
+DEBUG: board_modifier.py:132: Getting K_10 footprint position: (242887500, 38100000)
+DEBUG: board_modifier.py:84: Searching for optional ST10 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_9
+DEBUG: board_modifier.py:132: Getting K_9 footprint position: (223837500, 38100000)
+DEBUG: board_modifier.py:84: Searching for optional ST9 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_8
+DEBUG: board_modifier.py:132: Getting K_8 footprint position: (204787500, 38100000)
+DEBUG: board_modifier.py:84: Searching for optional ST8 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_7
+DEBUG: board_modifier.py:132: Getting K_7 footprint position: (171450000, 38100000)
+DEBUG: board_modifier.py:84: Searching for optional ST7 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_6
+DEBUG: board_modifier.py:132: Getting K_6 footprint position: (152400000, 38100000)
+DEBUG: board_modifier.py:84: Searching for optional ST6 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_5
+DEBUG: board_modifier.py:132: Getting K_5 footprint position: (133350000, 38100000)
+DEBUG: board_modifier.py:84: Searching for optional ST5 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_4
+DEBUG: board_modifier.py:132: Getting K_4 footprint position: (114300000, 38100000)
+DEBUG: board_modifier.py:84: Searching for optional ST4 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_3
+DEBUG: board_modifier.py:132: Getting K_3 footprint position: (95250000, 38100000)
+DEBUG: board_modifier.py:84: Searching for optional ST3 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_2
+DEBUG: board_modifier.py:132: Getting K_2 footprint position: (76200000, 38100000)
+DEBUG: board_modifier.py:84: Searching for optional ST2 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:979: Placing additional elements for K_1
+DEBUG: board_modifier.py:132: Getting K_1 footprint position: (38100000, 38100000)
+DEBUG: board_modifier.py:84: Searching for optional ST1 footprint in D:/Projects/1. KEEB/1800-122/KiCad Projects/V2/1800122-V2.kicad_pcb
+DEBUG: board_modifier.py:89: Footprint not found
+INFO: key_placer.py:1035: Routing unconnected-(K_61-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_31-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_24-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_27-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_104-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_97-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_69-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_118-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_35-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_105-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_115-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_63-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_56-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_116-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_90-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_78-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_73-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_32-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_30-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_17-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_58-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_6-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_97-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_80-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_41-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_5-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_38-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_8-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_59-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_50-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_86-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_17-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_105-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_104-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_32-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_78-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_23-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_98-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_108-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_49-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_22-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_60-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_126-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_20-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_123-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_12-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_9-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_79-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_107-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_120-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_52-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_36-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_19-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_91-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_60-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_54-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_1-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_113-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_11-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_59-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_56-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_3-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_68-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_30-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_124-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_6-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_121-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_122-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_119-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_55-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_65-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_114-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_124-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_37-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_21-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_128-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_103-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_116-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_70-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_121-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_89-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_127-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_2-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_123-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_64-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_42-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_99-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_43-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_33-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_3-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_14-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_40-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_7-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_109-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_13-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_47-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_16-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_73-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_45-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_46-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_39-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_39-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_96-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_68-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_79-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_76-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_35-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_27-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_83-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_15-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_15-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_47-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_48-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_89-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_50-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_101-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_111-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_66-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_53-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_117-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_62-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_53-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_28-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_84-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_87-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_18-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_92-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_63-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_81-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_67-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_64-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_46-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_18-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_16-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_61-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_55-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_37-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_75-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_102-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_95-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_51-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_33-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_103-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_77-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_72-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_26-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_102-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_74-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_98-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_10-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_49-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_106-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_28-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_96-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_87-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_76-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_94-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_74-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_112-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_69-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_20-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_101-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_95-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_1-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_112-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_126-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_25-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_85-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_22-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_43-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_86-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_85-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_82-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_34-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_57-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_29-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_82-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_44-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_45-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_34-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_71-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_100-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_106-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_88-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_41-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_66-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_9-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_2-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_71-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_29-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_70-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_23-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_14-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_110-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_88-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_115-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_93-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_31-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_58-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_109-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_84-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_57-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_52-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_40-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_38-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_7-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_65-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_113-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_11-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_51-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_114-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_72-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_4-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_125-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_24-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_42-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_110-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_128-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_127-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_75-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_94-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_67-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_54-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_48-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_21-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_92-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_81-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_80-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_12-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_10-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_122-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_19-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_117-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_8-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_120-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_5-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_62-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_36-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_119-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_90-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_26-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_108-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_100-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_44-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_13-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_107-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_4-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_125-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_118-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_111-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_77-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_83-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_25-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_93-COL-Pad1) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_91-ROW-Pad2) pads
+INFO: key_placer.py:1035: Routing unconnected-(K_99-COL-Pad1) pads
+INFO: key_placer.py:546: Removing dangling tracks
