@@ -710,6 +710,12 @@
 		(uuid "57e0b2fb-b8a3-45d4-94ed-129a54aa0a16")
 	)
 	(junction
+		(at 445.77 139.7)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "59d9b600-c781-4b8c-aae5-4f6752864b65")
+	)
+	(junction
 		(at 344.17 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -738,12 +744,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "60afd912-1fd2-4954-8230-fc36c323ebfa")
-	)
-	(junction
-		(at 445.77 139.7)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6558fe7c-8cd2-45d1-80b6-c9ac34e4a94d")
 	)
 	(junction
 		(at 535.94 74.93)
@@ -18835,7 +18835,7 @@
 	)
 	(symbol
 		(lib_id "122-LIB:MX_Kailh_Hotswap_PnP")
-		(at 435.61 115.57 0)
+		(at 433.07 116.84 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18845,7 +18845,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000511")
 		(property "Reference" "K_92"
-			(at 435.61 109.6518 0)
+			(at 433.07 110.9218 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18856,7 +18856,7 @@
 			)
 		)
 		(property "Value" "KEYSW"
-			(at 435.61 118.11 0)
+			(at 433.07 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18867,7 +18867,7 @@
 			)
 		)
 		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
-			(at 435.61 115.57 0)
+			(at 433.07 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18878,7 +18878,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 435.61 115.57 0)
+			(at 433.07 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18889,7 +18889,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 435.61 115.57 0)
+			(at 433.07 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19057,7 +19057,7 @@
 	)
 	(symbol
 		(lib_id "122-LIB:MX_Kailh_Hotswap_PnP")
-		(at 461.01 115.57 0)
+		(at 458.47 116.84 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -19067,7 +19067,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000521")
 		(property "Reference" "K_98"
-			(at 461.01 109.6518 0)
+			(at 458.47 110.9218 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19078,7 +19078,7 @@
 			)
 		)
 		(property "Value" "KEYSW"
-			(at 461.01 118.11 0)
+			(at 458.47 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19089,7 +19089,7 @@
 			)
 		)
 		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
-			(at 461.01 115.57 0)
+			(at 458.47 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19100,7 +19100,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 461.01 115.57 0)
+			(at 458.47 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19111,7 +19111,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 461.01 115.57 0)
+			(at 458.47 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23497,7 +23497,7 @@
 	)
 	(symbol
 		(lib_id "122-LIB:MX_Kailh_Hotswap_PnP")
-		(at 435.61 140.97 0)
+		(at 433.07 142.24 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -23507,7 +23507,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000721")
 		(property "Reference" "K_93"
-			(at 435.61 135.0518 0)
+			(at 433.07 136.3218 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23518,7 +23518,7 @@
 			)
 		)
 		(property "Value" "KEYSW"
-			(at 435.61 143.51 0)
+			(at 433.07 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23529,7 +23529,7 @@
 			)
 		)
 		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
-			(at 435.61 140.97 0)
+			(at 433.07 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23540,7 +23540,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 435.61 140.97 0)
+			(at 433.07 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23551,7 +23551,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 435.61 140.97 0)
+			(at 433.07 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23719,7 +23719,7 @@
 	)
 	(symbol
 		(lib_id "122-LIB:MX_Kailh_Hotswap_PnP")
-		(at 461.01 140.97 0)
+		(at 458.47 142.24 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -23729,7 +23729,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000731")
 		(property "Reference" "K_99"
-			(at 461.01 135.0518 0)
+			(at 458.47 136.3218 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23740,7 +23740,7 @@
 			)
 		)
 		(property "Value" "KEYSW"
-			(at 461.01 143.51 0)
+			(at 458.47 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23751,7 +23751,7 @@
 			)
 		)
 		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
-			(at 461.01 140.97 0)
+			(at 458.47 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23762,7 +23762,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 461.01 140.97 0)
+			(at 458.47 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23773,7 +23773,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 461.01 140.97 0)
+			(at 458.47 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
