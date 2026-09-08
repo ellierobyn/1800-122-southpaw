@@ -178,7 +178,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000231")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -864,7 +864,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000111")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1550,7 +1550,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000971")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2236,7 +2236,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001041")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2922,7 +2922,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000351")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3608,7 +3608,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000001")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4325,7 +4325,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000520")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4610,7 +4610,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000761")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5623,7 +5623,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000671")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6309,7 +6309,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000331")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6995,7 +6995,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000981")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7681,7 +7681,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000261")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8367,7 +8367,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000281")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9435,7 +9435,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001211")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10121,7 +10121,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000211")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10807,7 +10807,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000731")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11651,7 +11651,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000271")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12337,7 +12337,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000411")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13023,7 +13023,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000601")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13709,7 +13709,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000751")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -14395,7 +14395,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000151")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15081,7 +15081,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000171")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15767,7 +15767,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000631")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -16453,7 +16453,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000391")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17139,7 +17139,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001171")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17825,7 +17825,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000181")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18511,7 +18511,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000481")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19197,7 +19197,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001091")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19883,7 +19883,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000201")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20569,7 +20569,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000401")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -21255,7 +21255,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000101")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -21941,7 +21941,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000071")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -22627,7 +22627,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000781")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -23313,7 +23313,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000771")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -24157,7 +24157,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000131")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -24843,7 +24843,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000421")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -25529,7 +25529,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001001")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -26215,7 +26215,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000061")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -26901,7 +26901,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000471")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -27968,7 +27968,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001261")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -28654,7 +28654,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001241")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -29340,7 +29340,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001111")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -30026,7 +30026,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000371")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -30712,7 +30712,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001251")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -31398,7 +31398,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000561")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -32084,7 +32084,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000031")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -33244,7 +33244,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001181")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -33930,7 +33930,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000901")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -34796,7 +34796,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000711")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -35482,7 +35482,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000961")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -36168,7 +36168,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000241")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -36854,7 +36854,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000611")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -37540,7 +37540,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000221")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -38226,7 +38226,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001121")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -39070,7 +39070,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000721")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -39914,7 +39914,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000051")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -40600,7 +40600,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000431")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -41286,7 +41286,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000091")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -42130,7 +42130,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000931")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -42816,7 +42816,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000801")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -43502,7 +43502,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000451")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -45473,7 +45473,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000791")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -46159,7 +46159,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001151")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -47003,7 +47003,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000341")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -47689,7 +47689,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000501")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -48375,7 +48375,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000441")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -49061,7 +49061,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000841")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -49747,7 +49747,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000591")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -50433,7 +50433,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000381")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -51119,7 +51119,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000701")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -51836,7 +51836,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000730")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -52121,7 +52121,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000911")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -52807,7 +52807,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001161")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -53493,7 +53493,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001231")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -54337,7 +54337,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001191")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -55508,7 +55508,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000021")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -56194,7 +56194,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000161")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -56880,7 +56880,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000681")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -57988,7 +57988,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000141")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -58674,7 +58674,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000941")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -59360,7 +59360,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000691")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -60046,7 +60046,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001141")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -60732,7 +60732,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000661")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -61418,7 +61418,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000951")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -62104,7 +62104,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000621")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -62790,7 +62790,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000891")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -63634,7 +63634,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001201")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -64592,7 +64592,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000251")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -65309,7 +65309,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000510")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -65594,7 +65594,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000121")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -66280,7 +66280,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001131")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -67124,7 +67124,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000811")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -67841,7 +67841,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000720")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -68126,7 +68126,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000861")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -68812,7 +68812,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000921")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -69498,7 +69498,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000041")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -70184,7 +70184,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001021")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -70870,7 +70870,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000311")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -71556,7 +71556,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000851")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -72242,7 +72242,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000821")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -72928,7 +72928,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001031")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -73614,7 +73614,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001071")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -74300,7 +74300,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000491")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -74986,7 +74986,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000641")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -75830,7 +75830,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000651")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -76516,7 +76516,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000011")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -77202,7 +77202,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000511")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -77888,7 +77888,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000301")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -78574,7 +78574,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000081")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -79260,7 +79260,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000461")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -79946,7 +79946,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001101")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -80632,7 +80632,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000831")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -81318,7 +81318,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000881")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -82004,7 +82004,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000991")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -82690,7 +82690,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000521")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -83376,7 +83376,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001081")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -84062,7 +84062,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000541")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -84748,7 +84748,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000871")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -85434,7 +85434,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001011")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -86278,7 +86278,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001271")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -86964,7 +86964,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001051")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -87650,7 +87650,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000191")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -88336,7 +88336,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000571")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -89022,7 +89022,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001061")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -89708,7 +89708,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001221")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -90394,7 +90394,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000741")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -91080,7 +91080,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000321")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -91766,7 +91766,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000581")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -92452,7 +92452,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000551")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -93138,7 +93138,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000531")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -93824,7 +93824,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000361")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -94510,7 +94510,7 @@
 		)
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000291")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -95233,7 +95233,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000930")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -95556,7 +95556,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001030")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -95879,7 +95879,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001000")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -96202,7 +96202,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001050")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -96525,7 +96525,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000430")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -96848,7 +96848,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000070")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -97171,7 +97171,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000650")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -97494,7 +97494,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000490")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -97817,7 +97817,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000390")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -98140,7 +98140,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000550")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -98463,7 +98463,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000020")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -98786,7 +98786,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001150")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -99109,7 +99109,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000330")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -99432,7 +99432,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000370")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -99755,7 +99755,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001020")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -100078,7 +100078,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000640")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -100401,7 +100401,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000850")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -100724,7 +100724,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000750")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -101047,7 +101047,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000410")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -101370,7 +101370,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000110")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -101693,7 +101693,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000940")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -102016,7 +102016,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001130")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -102339,7 +102339,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000310")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -102662,7 +102662,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000230")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -102985,7 +102985,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000480")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -103308,7 +103308,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000340")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -103631,7 +103631,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000670")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -103954,7 +103954,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000420")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -104277,7 +104277,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000580")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -104600,7 +104600,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000100")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -104923,7 +104923,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001160")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -105246,7 +105246,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000140")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -105569,7 +105569,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000980")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -105892,7 +105892,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000130")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -106215,7 +106215,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001040")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -106538,7 +106538,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000400")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -106861,7 +106861,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000460")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -107184,7 +107184,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001120")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -107507,7 +107507,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000890")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -107830,7 +107830,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000360")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -108153,7 +108153,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000270")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -108476,7 +108476,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001180")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -108799,7 +108799,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001230")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -109122,7 +109122,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000540")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -109445,7 +109445,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000710")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -109768,7 +109768,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000950")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -110091,7 +110091,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000870")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -110414,7 +110414,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000250")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -110737,7 +110737,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000160")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -111060,7 +111060,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000920")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -111383,7 +111383,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000030")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -111706,7 +111706,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000210")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -112029,7 +112029,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000120")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -112352,7 +112352,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000530")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -112675,7 +112675,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000830")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -112998,7 +112998,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000910")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -113321,7 +113321,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001080")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -113644,7 +113644,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000790")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -113967,7 +113967,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000740")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -114290,7 +114290,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000970")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -114613,7 +114613,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000600")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -114936,7 +114936,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000280")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -115259,7 +115259,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000700")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -115582,7 +115582,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000000")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -115905,7 +115905,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000960")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -116228,7 +116228,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001260")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -116551,7 +116551,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000860")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -116874,7 +116874,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000260")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -117197,7 +117197,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001140")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -117520,7 +117520,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000570")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -117843,7 +117843,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000090")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -118166,7 +118166,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000010")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -118489,7 +118489,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000610")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -118812,7 +118812,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001240")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -119135,7 +119135,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000220")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -119458,7 +119458,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000800")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -119781,7 +119781,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000880")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -120104,7 +120104,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000050")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -120427,7 +120427,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000630")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -120750,7 +120750,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000380")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -121073,7 +121073,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000180")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -121396,7 +121396,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001210")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -121719,7 +121719,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001100")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -122042,7 +122042,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000190")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -122365,7 +122365,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000350")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -122688,7 +122688,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000560")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -123011,7 +123011,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000290")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -123334,7 +123334,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000240")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -123657,7 +123657,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000470")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -123980,7 +123980,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000660")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -124303,7 +124303,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001250")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -124626,7 +124626,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000590")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -124949,7 +124949,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000780")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -125272,7 +125272,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000900")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -125595,7 +125595,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001190")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -125918,7 +125918,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000690")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -126241,7 +126241,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000040")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -126564,7 +126564,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000990")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -126887,7 +126887,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001220")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -127210,7 +127210,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000320")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -127533,7 +127533,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000440")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -127856,7 +127856,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000680")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -128179,7 +128179,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001170")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -128502,7 +128502,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000060")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -128825,7 +128825,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001060")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -129148,7 +129148,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000770")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -129471,7 +129471,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001270")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -129794,7 +129794,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000620")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -130117,7 +130117,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001110")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -130440,7 +130440,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000450")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -130763,7 +130763,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001010")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -131086,7 +131086,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000150")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -131409,7 +131409,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000760")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -131732,7 +131732,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000300")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -132055,7 +132055,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000170")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -132378,7 +132378,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000820")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -132701,7 +132701,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001090")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -133024,7 +133024,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000810")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -133347,7 +133347,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000500")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -133670,7 +133670,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000200")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -133993,7 +133993,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000080")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -134316,7 +134316,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000000840")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -134639,7 +134639,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001200")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -134962,7 +134962,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5/00000000-0000-0000-0000-000000001070")
 		(sheetname "/Switch Matrix/")
-		(sheetfile "${KIPRJMOD}/switch-matrix.kicad_sch")
+		(sheetfile "switch-matrix.kicad_sch")
 		(units
 			(unit
 				(name "A")
