@@ -308,6 +308,17 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "HOTSWAPS (LCSC): C41430893\nDIODES (LCSC): C963381"
+		(exclude_from_sim no)
+		(at 12.954 14.732 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5c06c9b9-6bd3-4a07-9481-9ff83949b6e3")
+	)
 	(junction
 		(at 180.34 125.73)
 		(diameter 0)
