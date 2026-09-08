@@ -11315,7 +11315,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "/home/ellie/Documents/1800-122-SP-KEEB-V2/switch-matrix.kicad_sch"
+		(property "Sheetfile" "${KIPRJMOD}/switch-matrix.kicad_sch"
 			(at 331.47 72.9746 0)
 			(show_name no)
 			(do_not_autoplace no)
