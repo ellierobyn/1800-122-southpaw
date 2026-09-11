@@ -31,7 +31,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -7529,6 +7529,7 @@
 		(uuid "00000000-0000-0000-0000-000000000001")
 		(property "Reference" "K_1"
 			(at 52.07 32.766 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7548,7 +7549,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 52.07 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -7625,7 +7626,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000010")
-		(property "Reference" "D_11"
+		(property "Reference" "D_2"
 			(at 106.68 45.212 90)
 			(hide yes)
 			(show_name no)
@@ -7719,7 +7720,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_11")
+					(reference "D_2")
 					(unit 1)
 				)
 			)
@@ -7748,7 +7749,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000011")
-		(property "Reference" "K_11"
+		(property "Reference" "K_2"
 			(at 102.87 34.7218 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7769,7 +7770,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 102.87 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -7817,7 +7818,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_11")
+					(reference "K_2")
 					(unit 1)
 				)
 			)
@@ -7846,7 +7847,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000020")
-		(property "Reference" "D_18"
+		(property "Reference" "D_3"
 			(at 132.08 45.212 90)
 			(hide yes)
 			(show_name no)
@@ -7940,7 +7941,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_18")
+					(reference "D_3")
 					(unit 1)
 				)
 			)
@@ -7969,7 +7970,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000021")
-		(property "Reference" "K_18"
+		(property "Reference" "K_3"
 			(at 128.27 34.7218 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7990,7 +7991,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 128.27 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -8038,7 +8039,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_18")
+					(reference "K_3")
 					(unit 1)
 				)
 			)
@@ -8067,7 +8068,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000030")
-		(property "Reference" "D_24"
+		(property "Reference" "D_4"
 			(at 157.48 45.212 90)
 			(hide yes)
 			(show_name no)
@@ -8161,7 +8162,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_24")
+					(reference "D_4")
 					(unit 1)
 				)
 			)
@@ -8190,7 +8191,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000031")
-		(property "Reference" "K_24"
+		(property "Reference" "K_4"
 			(at 153.67 34.7218 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8211,7 +8212,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 153.67 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -8259,7 +8260,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_24")
+					(reference "K_4")
 					(unit 1)
 				)
 			)
@@ -8288,7 +8289,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000040")
-		(property "Reference" "D_31"
+		(property "Reference" "D_5"
 			(at 182.88 45.212 90)
 			(hide yes)
 			(show_name no)
@@ -8382,7 +8383,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_31")
+					(reference "D_5")
 					(unit 1)
 				)
 			)
@@ -8411,7 +8412,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000041")
-		(property "Reference" "K_31"
+		(property "Reference" "K_5"
 			(at 179.07 34.7218 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8432,7 +8433,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 179.07 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -8480,7 +8481,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_31")
+					(reference "K_5")
 					(unit 1)
 				)
 			)
@@ -8509,7 +8510,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000050")
-		(property "Reference" "D_38"
+		(property "Reference" "D_6"
 			(at 208.28 45.212 90)
 			(hide yes)
 			(show_name no)
@@ -8603,7 +8604,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_38")
+					(reference "D_6")
 					(unit 1)
 				)
 			)
@@ -8632,7 +8633,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000051")
-		(property "Reference" "K_38"
+		(property "Reference" "K_6"
 			(at 204.47 34.7218 0)
 			(hide yes)
 			(show_name no)
@@ -8654,7 +8655,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 204.47 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -8702,7 +8703,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_38")
+					(reference "K_6")
 					(unit 1)
 				)
 			)
@@ -8731,7 +8732,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000060")
-		(property "Reference" "D_45"
+		(property "Reference" "D_7"
 			(at 233.68 45.212 90)
 			(hide yes)
 			(show_name no)
@@ -8825,7 +8826,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_45")
+					(reference "D_7")
 					(unit 1)
 				)
 			)
@@ -8854,7 +8855,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000061")
-		(property "Reference" "K_45"
+		(property "Reference" "K_7"
 			(at 229.87 34.7218 0)
 			(hide yes)
 			(show_name no)
@@ -8876,7 +8877,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 229.87 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -8924,7 +8925,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_45")
+					(reference "K_7")
 					(unit 1)
 				)
 			)
@@ -8953,7 +8954,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000070")
-		(property "Reference" "D_52"
+		(property "Reference" "D_8"
 			(at 284.48 45.212 90)
 			(hide yes)
 			(show_name no)
@@ -9047,7 +9048,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_52")
+					(reference "D_8")
 					(unit 1)
 				)
 			)
@@ -9076,7 +9077,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000071")
-		(property "Reference" "K_52"
+		(property "Reference" "K_8"
 			(at 280.67 34.7218 0)
 			(hide yes)
 			(show_name no)
@@ -9098,7 +9099,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 280.67 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -9146,7 +9147,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_52")
+					(reference "K_8")
 					(unit 1)
 				)
 			)
@@ -9175,7 +9176,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000080")
-		(property "Reference" "D_58"
+		(property "Reference" "D_9"
 			(at 309.88 45.212 90)
 			(hide yes)
 			(show_name no)
@@ -9269,7 +9270,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_58")
+					(reference "D_9")
 					(unit 1)
 				)
 			)
@@ -9298,7 +9299,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000081")
-		(property "Reference" "K_58"
+		(property "Reference" "K_9"
 			(at 306.07 34.7218 0)
 			(hide yes)
 			(show_name no)
@@ -9320,7 +9321,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 306.07 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -9368,7 +9369,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_58")
+					(reference "K_9")
 					(unit 1)
 				)
 			)
@@ -9397,7 +9398,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000090")
-		(property "Reference" "D_64"
+		(property "Reference" "D_10"
 			(at 335.28 45.212 90)
 			(hide yes)
 			(show_name no)
@@ -9491,7 +9492,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_64")
+					(reference "D_10")
 					(unit 1)
 				)
 			)
@@ -9520,7 +9521,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000091")
-		(property "Reference" "K_64"
+		(property "Reference" "K_10"
 			(at 331.47 34.7218 0)
 			(hide yes)
 			(show_name no)
@@ -9542,7 +9543,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 331.47 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -9590,7 +9591,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_64")
+					(reference "K_10")
 					(unit 1)
 				)
 			)
@@ -9619,7 +9620,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000100")
-		(property "Reference" "D_71"
+		(property "Reference" "D_11"
 			(at 360.68 45.212 90)
 			(hide yes)
 			(show_name no)
@@ -9713,7 +9714,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_71")
+					(reference "D_11")
 					(unit 1)
 				)
 			)
@@ -9742,7 +9743,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000101")
-		(property "Reference" "K_71"
+		(property "Reference" "K_11"
 			(at 356.87 34.7218 0)
 			(hide yes)
 			(show_name no)
@@ -9764,7 +9765,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 356.87 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -9812,7 +9813,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_71")
+					(reference "K_11")
 					(unit 1)
 				)
 			)
@@ -9841,7 +9842,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000110")
-		(property "Reference" "D_77"
+		(property "Reference" "D_12"
 			(at 386.08 45.212 90)
 			(hide yes)
 			(show_name no)
@@ -9935,7 +9936,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_77")
+					(reference "D_12")
 					(unit 1)
 				)
 			)
@@ -9964,7 +9965,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000111")
-		(property "Reference" "K_77"
+		(property "Reference" "K_12"
 			(at 382.27 34.7218 0)
 			(hide yes)
 			(show_name no)
@@ -9986,7 +9987,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 382.27 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -10034,7 +10035,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_77")
+					(reference "K_12")
 					(unit 1)
 				)
 			)
@@ -10063,7 +10064,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000120")
-		(property "Reference" "D_83"
+		(property "Reference" "D_13"
 			(at 411.48 45.212 90)
 			(hide yes)
 			(show_name no)
@@ -10157,7 +10158,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_83")
+					(reference "D_13")
 					(unit 1)
 				)
 			)
@@ -10186,7 +10187,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000121")
-		(property "Reference" "K_83"
+		(property "Reference" "K_13"
 			(at 407.67 34.7218 0)
 			(hide yes)
 			(show_name no)
@@ -10208,7 +10209,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 407.67 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -10256,7 +10257,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_83")
+					(reference "K_13")
 					(unit 1)
 				)
 			)
@@ -10285,7 +10286,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000130")
-		(property "Reference" "D_90"
+		(property "Reference" "D_14"
 			(at 436.88 45.212 90)
 			(hide yes)
 			(show_name no)
@@ -10379,7 +10380,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_90")
+					(reference "D_14")
 					(unit 1)
 				)
 			)
@@ -10408,7 +10409,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000131")
-		(property "Reference" "K_90"
+		(property "Reference" "K_14"
 			(at 433.07 34.7218 0)
 			(hide yes)
 			(show_name no)
@@ -10430,7 +10431,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 433.07 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -10478,7 +10479,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_90")
+					(reference "K_14")
 					(unit 1)
 				)
 			)
@@ -10507,7 +10508,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000140")
-		(property "Reference" "D_96"
+		(property "Reference" "D_15"
 			(at 462.28 45.212 90)
 			(hide yes)
 			(show_name no)
@@ -10601,7 +10602,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_96")
+					(reference "D_15")
 					(unit 1)
 				)
 			)
@@ -10630,7 +10631,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000141")
-		(property "Reference" "K_96"
+		(property "Reference" "K_15"
 			(at 458.47 34.7218 0)
 			(hide yes)
 			(show_name no)
@@ -10652,7 +10653,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 458.47 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -10700,7 +10701,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_96")
+					(reference "K_15")
 					(unit 1)
 				)
 			)
@@ -10729,7 +10730,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000150")
-		(property "Reference" "D_103"
+		(property "Reference" "D_16"
 			(at 487.68 45.212 90)
 			(hide yes)
 			(show_name no)
@@ -10823,7 +10824,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_103")
+					(reference "D_16")
 					(unit 1)
 				)
 			)
@@ -10852,7 +10853,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000151")
-		(property "Reference" "K_103"
+		(property "Reference" "K_16"
 			(at 483.87 34.7218 0)
 			(hide yes)
 			(show_name no)
@@ -10874,7 +10875,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 483.87 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -10922,7 +10923,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_103")
+					(reference "K_16")
 					(unit 1)
 				)
 			)
@@ -10951,7 +10952,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000160")
-		(property "Reference" "D_108"
+		(property "Reference" "D_17"
 			(at 513.08 45.212 90)
 			(hide yes)
 			(show_name no)
@@ -11045,7 +11046,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_108")
+					(reference "D_17")
 					(unit 1)
 				)
 			)
@@ -11074,7 +11075,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000161")
-		(property "Reference" "K_108"
+		(property "Reference" "K_17"
 			(at 509.27 34.7218 0)
 			(hide yes)
 			(show_name no)
@@ -11096,7 +11097,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 509.27 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -11144,7 +11145,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_108")
+					(reference "K_17")
 					(unit 1)
 				)
 			)
@@ -11173,7 +11174,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000170")
-		(property "Reference" "D_112"
+		(property "Reference" "D_18"
 			(at 538.48 45.212 90)
 			(hide yes)
 			(show_name no)
@@ -11267,7 +11268,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_112")
+					(reference "D_18")
 					(unit 1)
 				)
 			)
@@ -11296,7 +11297,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000171")
-		(property "Reference" "K_112"
+		(property "Reference" "K_18"
 			(at 534.67 34.7218 0)
 			(hide yes)
 			(show_name no)
@@ -11318,7 +11319,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 534.67 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -11366,7 +11367,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_112")
+					(reference "K_18")
 					(unit 1)
 				)
 			)
@@ -11395,7 +11396,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000180")
-		(property "Reference" "D_119"
+		(property "Reference" "D_19"
 			(at 563.88 45.212 90)
 			(hide yes)
 			(show_name no)
@@ -11489,7 +11490,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_119")
+					(reference "D_19")
 					(unit 1)
 				)
 			)
@@ -11518,7 +11519,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000181")
-		(property "Reference" "K_119"
+		(property "Reference" "K_19"
 			(at 560.07 34.7218 0)
 			(hide yes)
 			(show_name no)
@@ -11540,7 +11541,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 560.07 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -11588,7 +11589,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_119")
+					(reference "K_19")
 					(unit 1)
 				)
 			)
@@ -11617,7 +11618,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000190")
-		(property "Reference" "D_12"
+		(property "Reference" "D_20"
 			(at 106.68 70.612 90)
 			(hide yes)
 			(show_name no)
@@ -11711,7 +11712,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_12")
+					(reference "D_20")
 					(unit 1)
 				)
 			)
@@ -11740,7 +11741,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000191")
-		(property "Reference" "K_12"
+		(property "Reference" "K_20"
 			(at 102.87 60.1218 0)
 			(hide yes)
 			(show_name no)
@@ -11762,7 +11763,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 102.87 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -11810,7 +11811,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_12")
+					(reference "K_20")
 					(unit 1)
 				)
 			)
@@ -11839,7 +11840,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000200")
-		(property "Reference" "D_19"
+		(property "Reference" "D_21"
 			(at 132.08 70.612 90)
 			(hide yes)
 			(show_name no)
@@ -11933,7 +11934,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_19")
+					(reference "D_21")
 					(unit 1)
 				)
 			)
@@ -11962,7 +11963,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000201")
-		(property "Reference" "K_19"
+		(property "Reference" "K_21"
 			(at 128.27 60.1218 0)
 			(hide yes)
 			(show_name no)
@@ -11984,7 +11985,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 128.27 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -12032,7 +12033,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_19")
+					(reference "K_21")
 					(unit 1)
 				)
 			)
@@ -12061,7 +12062,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000210")
-		(property "Reference" "D_25"
+		(property "Reference" "D_22"
 			(at 157.48 70.612 90)
 			(hide yes)
 			(show_name no)
@@ -12155,7 +12156,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_25")
+					(reference "D_22")
 					(unit 1)
 				)
 			)
@@ -12184,7 +12185,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000211")
-		(property "Reference" "K_25"
+		(property "Reference" "K_22"
 			(at 153.67 60.1218 0)
 			(hide yes)
 			(show_name no)
@@ -12206,7 +12207,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 153.67 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -12254,7 +12255,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_25")
+					(reference "K_22")
 					(unit 1)
 				)
 			)
@@ -12283,7 +12284,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000220")
-		(property "Reference" "D_32"
+		(property "Reference" "D_23"
 			(at 182.88 70.612 90)
 			(hide yes)
 			(show_name no)
@@ -12377,7 +12378,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_32")
+					(reference "D_23")
 					(unit 1)
 				)
 			)
@@ -12406,7 +12407,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000221")
-		(property "Reference" "K_32"
+		(property "Reference" "K_23"
 			(at 179.07 60.1218 0)
 			(hide yes)
 			(show_name no)
@@ -12428,7 +12429,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 179.07 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -12476,7 +12477,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_32")
+					(reference "K_23")
 					(unit 1)
 				)
 			)
@@ -12505,7 +12506,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000230")
-		(property "Reference" "D_39"
+		(property "Reference" "D_24"
 			(at 208.28 70.612 90)
 			(hide yes)
 			(show_name no)
@@ -12599,7 +12600,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_39")
+					(reference "D_24")
 					(unit 1)
 				)
 			)
@@ -12628,7 +12629,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000231")
-		(property "Reference" "K_39"
+		(property "Reference" "K_24"
 			(at 204.47 60.1218 0)
 			(hide yes)
 			(show_name no)
@@ -12650,7 +12651,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 204.47 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -12698,7 +12699,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_39")
+					(reference "K_24")
 					(unit 1)
 				)
 			)
@@ -12727,7 +12728,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000240")
-		(property "Reference" "D_46"
+		(property "Reference" "D_25"
 			(at 233.68 70.612 90)
 			(hide yes)
 			(show_name no)
@@ -12821,7 +12822,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_46")
+					(reference "D_25")
 					(unit 1)
 				)
 			)
@@ -12850,7 +12851,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000241")
-		(property "Reference" "K_46"
+		(property "Reference" "K_25"
 			(at 229.87 60.1218 0)
 			(hide yes)
 			(show_name no)
@@ -12872,7 +12873,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 229.87 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -12920,7 +12921,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_46")
+					(reference "K_25")
 					(unit 1)
 				)
 			)
@@ -12949,7 +12950,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000250")
-		(property "Reference" "D_53"
+		(property "Reference" "D_26"
 			(at 284.48 70.612 90)
 			(hide yes)
 			(show_name no)
@@ -13043,7 +13044,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_53")
+					(reference "D_26")
 					(unit 1)
 				)
 			)
@@ -13072,7 +13073,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000251")
-		(property "Reference" "K_53"
+		(property "Reference" "K_26"
 			(at 280.67 60.1218 0)
 			(hide yes)
 			(show_name no)
@@ -13094,7 +13095,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 280.67 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -13142,7 +13143,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_53")
+					(reference "K_26")
 					(unit 1)
 				)
 			)
@@ -13171,7 +13172,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000260")
-		(property "Reference" "D_59"
+		(property "Reference" "D_27"
 			(at 309.88 70.612 90)
 			(hide yes)
 			(show_name no)
@@ -13265,7 +13266,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_59")
+					(reference "D_27")
 					(unit 1)
 				)
 			)
@@ -13294,7 +13295,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000261")
-		(property "Reference" "K_59"
+		(property "Reference" "K_27"
 			(at 306.07 60.1218 0)
 			(hide yes)
 			(show_name no)
@@ -13316,7 +13317,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 306.07 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -13364,7 +13365,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_59")
+					(reference "K_27")
 					(unit 1)
 				)
 			)
@@ -13393,7 +13394,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000270")
-		(property "Reference" "D_65"
+		(property "Reference" "D_28"
 			(at 335.28 70.612 90)
 			(hide yes)
 			(show_name no)
@@ -13487,7 +13488,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_65")
+					(reference "D_28")
 					(unit 1)
 				)
 			)
@@ -13516,7 +13517,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000271")
-		(property "Reference" "K_65"
+		(property "Reference" "K_28"
 			(at 331.47 60.1218 0)
 			(hide yes)
 			(show_name no)
@@ -13538,7 +13539,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 331.47 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -13586,7 +13587,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_65")
+					(reference "K_28")
 					(unit 1)
 				)
 			)
@@ -13615,7 +13616,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000280")
-		(property "Reference" "D_72"
+		(property "Reference" "D_29"
 			(at 360.68 70.612 90)
 			(hide yes)
 			(show_name no)
@@ -13709,7 +13710,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_72")
+					(reference "D_29")
 					(unit 1)
 				)
 			)
@@ -13738,7 +13739,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000281")
-		(property "Reference" "K_72"
+		(property "Reference" "K_29"
 			(at 356.87 60.1218 0)
 			(hide yes)
 			(show_name no)
@@ -13760,7 +13761,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 356.87 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -13808,7 +13809,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_72")
+					(reference "K_29")
 					(unit 1)
 				)
 			)
@@ -13837,7 +13838,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000290")
-		(property "Reference" "D_78"
+		(property "Reference" "D_30"
 			(at 386.08 70.612 90)
 			(hide yes)
 			(show_name no)
@@ -13931,7 +13932,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_78")
+					(reference "D_30")
 					(unit 1)
 				)
 			)
@@ -13960,7 +13961,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000291")
-		(property "Reference" "K_78"
+		(property "Reference" "K_30"
 			(at 382.27 60.1218 0)
 			(hide yes)
 			(show_name no)
@@ -13982,7 +13983,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 382.27 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -14030,7 +14031,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_78")
+					(reference "K_30")
 					(unit 1)
 				)
 			)
@@ -14059,7 +14060,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000300")
-		(property "Reference" "D_84"
+		(property "Reference" "D_31"
 			(at 411.48 70.612 90)
 			(hide yes)
 			(show_name no)
@@ -14153,7 +14154,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_84")
+					(reference "D_31")
 					(unit 1)
 				)
 			)
@@ -14182,7 +14183,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000301")
-		(property "Reference" "K_84"
+		(property "Reference" "K_31"
 			(at 407.67 60.1218 0)
 			(hide yes)
 			(show_name no)
@@ -14204,7 +14205,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 407.67 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -14252,7 +14253,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_84")
+					(reference "K_31")
 					(unit 1)
 				)
 			)
@@ -14281,7 +14282,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000310")
-		(property "Reference" "D_91"
+		(property "Reference" "D_32"
 			(at 436.88 70.612 90)
 			(hide yes)
 			(show_name no)
@@ -14375,7 +14376,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_91")
+					(reference "D_32")
 					(unit 1)
 				)
 			)
@@ -14404,7 +14405,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000311")
-		(property "Reference" "K_91"
+		(property "Reference" "K_32"
 			(at 433.07 60.1218 0)
 			(hide yes)
 			(show_name no)
@@ -14426,7 +14427,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 433.07 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -14474,7 +14475,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_91")
+					(reference "K_32")
 					(unit 1)
 				)
 			)
@@ -14503,7 +14504,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000320")
-		(property "Reference" "D_97"
+		(property "Reference" "D_33"
 			(at 462.28 70.612 90)
 			(hide yes)
 			(show_name no)
@@ -14597,7 +14598,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_97")
+					(reference "D_33")
 					(unit 1)
 				)
 			)
@@ -14626,7 +14627,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000321")
-		(property "Reference" "K_97"
+		(property "Reference" "K_33"
 			(at 458.47 60.1218 0)
 			(hide yes)
 			(show_name no)
@@ -14648,7 +14649,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 458.47 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -14696,7 +14697,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_97")
+					(reference "K_33")
 					(unit 1)
 				)
 			)
@@ -14725,7 +14726,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000330")
-		(property "Reference" "D_104"
+		(property "Reference" "D_34"
 			(at 487.68 70.612 90)
 			(hide yes)
 			(show_name no)
@@ -14819,7 +14820,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_104")
+					(reference "D_34")
 					(unit 1)
 				)
 			)
@@ -14848,7 +14849,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000331")
-		(property "Reference" "K_104"
+		(property "Reference" "K_34"
 			(at 483.87 60.1218 0)
 			(hide yes)
 			(show_name no)
@@ -14870,7 +14871,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 483.87 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -14918,7 +14919,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_104")
+					(reference "K_34")
 					(unit 1)
 				)
 			)
@@ -14947,7 +14948,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000340")
-		(property "Reference" "D_109"
+		(property "Reference" "D_35"
 			(at 513.08 70.612 90)
 			(hide yes)
 			(show_name no)
@@ -15041,7 +15042,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_109")
+					(reference "D_35")
 					(unit 1)
 				)
 			)
@@ -15070,7 +15071,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000341")
-		(property "Reference" "K_109"
+		(property "Reference" "K_35"
 			(at 509.27 60.1218 0)
 			(hide yes)
 			(show_name no)
@@ -15092,7 +15093,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 509.27 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -15140,7 +15141,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_109")
+					(reference "K_35")
 					(unit 1)
 				)
 			)
@@ -15169,7 +15170,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000350")
-		(property "Reference" "D_113"
+		(property "Reference" "D_36"
 			(at 538.48 70.612 90)
 			(hide yes)
 			(show_name no)
@@ -15263,7 +15264,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_113")
+					(reference "D_36")
 					(unit 1)
 				)
 			)
@@ -15292,7 +15293,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000351")
-		(property "Reference" "K_113"
+		(property "Reference" "K_36"
 			(at 534.67 60.1218 0)
 			(hide yes)
 			(show_name no)
@@ -15314,7 +15315,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 534.67 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -15362,7 +15363,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_113")
+					(reference "K_36")
 					(unit 1)
 				)
 			)
@@ -15391,7 +15392,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000360")
-		(property "Reference" "D_120"
+		(property "Reference" "D_37"
 			(at 563.88 70.612 90)
 			(hide yes)
 			(show_name no)
@@ -15485,7 +15486,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_120")
+					(reference "D_37")
 					(unit 1)
 				)
 			)
@@ -15514,7 +15515,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000361")
-		(property "Reference" "K_120"
+		(property "Reference" "K_37"
 			(at 560.07 60.1218 0)
 			(hide yes)
 			(show_name no)
@@ -15536,7 +15537,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 560.07 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -15584,7 +15585,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_120")
+					(reference "K_37")
 					(unit 1)
 				)
 			)
@@ -15613,7 +15614,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000370")
-		(property "Reference" "D_2"
+		(property "Reference" "D_38"
 			(at 55.88 121.412 90)
 			(hide yes)
 			(show_name no)
@@ -15707,7 +15708,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_2")
+					(reference "D_38")
 					(unit 1)
 				)
 			)
@@ -15736,7 +15737,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000371")
-		(property "Reference" "K_2"
+		(property "Reference" "K_38"
 			(at 52.07 110.9218 0)
 			(hide yes)
 			(show_name no)
@@ -15758,7 +15759,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 52.07 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -15806,7 +15807,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_2")
+					(reference "K_38")
 					(unit 1)
 				)
 			)
@@ -15835,7 +15836,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000380")
-		(property "Reference" "D_7"
+		(property "Reference" "D_39"
 			(at 81.28 121.412 90)
 			(hide yes)
 			(show_name no)
@@ -15929,7 +15930,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_7")
+					(reference "D_39")
 					(unit 1)
 				)
 			)
@@ -15958,7 +15959,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000381")
-		(property "Reference" "K_7"
+		(property "Reference" "K_39"
 			(at 77.47 110.9218 0)
 			(hide yes)
 			(show_name no)
@@ -15980,7 +15981,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 77.47 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -16028,7 +16029,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_7")
+					(reference "K_39")
 					(unit 1)
 				)
 			)
@@ -16057,7 +16058,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000390")
-		(property "Reference" "D_13"
+		(property "Reference" "D_40"
 			(at 106.68 121.412 90)
 			(hide yes)
 			(show_name no)
@@ -16151,7 +16152,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_13")
+					(reference "D_40")
 					(unit 1)
 				)
 			)
@@ -16180,7 +16181,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000391")
-		(property "Reference" "K_13"
+		(property "Reference" "K_40"
 			(at 102.87 110.9218 0)
 			(hide yes)
 			(show_name no)
@@ -16202,7 +16203,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 102.87 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -16250,7 +16251,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_13")
+					(reference "K_40")
 					(unit 1)
 				)
 			)
@@ -16279,7 +16280,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000400")
-		(property "Reference" "D_20"
+		(property "Reference" "D_41"
 			(at 132.08 121.412 90)
 			(hide yes)
 			(show_name no)
@@ -16373,7 +16374,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_20")
+					(reference "D_41")
 					(unit 1)
 				)
 			)
@@ -16402,7 +16403,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000401")
-		(property "Reference" "K_20"
+		(property "Reference" "K_41"
 			(at 128.27 110.9218 0)
 			(hide yes)
 			(show_name no)
@@ -16424,7 +16425,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 128.27 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -16472,7 +16473,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_20")
+					(reference "K_41")
 					(unit 1)
 				)
 			)
@@ -16501,7 +16502,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000410")
-		(property "Reference" "D_26"
+		(property "Reference" "D_42"
 			(at 157.48 121.412 90)
 			(hide yes)
 			(show_name no)
@@ -16595,7 +16596,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_26")
+					(reference "D_42")
 					(unit 1)
 				)
 			)
@@ -16624,7 +16625,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000411")
-		(property "Reference" "K_26"
+		(property "Reference" "K_42"
 			(at 153.67 110.9218 0)
 			(hide yes)
 			(show_name no)
@@ -16646,7 +16647,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 153.67 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -16694,7 +16695,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_26")
+					(reference "K_42")
 					(unit 1)
 				)
 			)
@@ -16723,7 +16724,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000420")
-		(property "Reference" "D_33"
+		(property "Reference" "D_43"
 			(at 182.88 121.412 90)
 			(hide yes)
 			(show_name no)
@@ -16817,7 +16818,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_33")
+					(reference "D_43")
 					(unit 1)
 				)
 			)
@@ -16846,7 +16847,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000421")
-		(property "Reference" "K_33"
+		(property "Reference" "K_43"
 			(at 179.07 110.9218 0)
 			(hide yes)
 			(show_name no)
@@ -16868,7 +16869,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 179.07 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -16916,7 +16917,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_33")
+					(reference "K_43")
 					(unit 1)
 				)
 			)
@@ -16945,7 +16946,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000430")
-		(property "Reference" "D_40"
+		(property "Reference" "D_44"
 			(at 208.28 121.412 90)
 			(hide yes)
 			(show_name no)
@@ -17039,7 +17040,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_40")
+					(reference "D_44")
 					(unit 1)
 				)
 			)
@@ -17068,7 +17069,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000431")
-		(property "Reference" "K_40"
+		(property "Reference" "K_44"
 			(at 204.47 110.9218 0)
 			(hide yes)
 			(show_name no)
@@ -17090,7 +17091,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 204.47 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -17138,7 +17139,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_40")
+					(reference "K_44")
 					(unit 1)
 				)
 			)
@@ -17167,7 +17168,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000440")
-		(property "Reference" "D_47"
+		(property "Reference" "D_45"
 			(at 233.68 121.412 90)
 			(hide yes)
 			(show_name no)
@@ -17261,7 +17262,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_47")
+					(reference "D_45")
 					(unit 1)
 				)
 			)
@@ -17290,7 +17291,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000441")
-		(property "Reference" "K_47"
+		(property "Reference" "K_45"
 			(at 229.87 110.9218 0)
 			(hide yes)
 			(show_name no)
@@ -17312,7 +17313,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 229.87 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -17360,7 +17361,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_47")
+					(reference "K_45")
 					(unit 1)
 				)
 			)
@@ -17389,7 +17390,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000450")
-		(property "Reference" "D_54"
+		(property "Reference" "D_46"
 			(at 284.48 121.412 90)
 			(hide yes)
 			(show_name no)
@@ -17483,7 +17484,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_54")
+					(reference "D_46")
 					(unit 1)
 				)
 			)
@@ -17512,7 +17513,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000451")
-		(property "Reference" "K_54"
+		(property "Reference" "K_46"
 			(at 280.67 110.9218 0)
 			(hide yes)
 			(show_name no)
@@ -17534,7 +17535,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 280.67 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -17582,7 +17583,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_54")
+					(reference "K_46")
 					(unit 1)
 				)
 			)
@@ -17611,7 +17612,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000460")
-		(property "Reference" "D_60"
+		(property "Reference" "D_47"
 			(at 309.88 121.412 90)
 			(hide yes)
 			(show_name no)
@@ -17705,7 +17706,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_60")
+					(reference "D_47")
 					(unit 1)
 				)
 			)
@@ -17734,7 +17735,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000461")
-		(property "Reference" "K_60"
+		(property "Reference" "K_47"
 			(at 306.07 110.9218 0)
 			(hide yes)
 			(show_name no)
@@ -17756,7 +17757,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 306.07 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -17804,7 +17805,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_60")
+					(reference "K_47")
 					(unit 1)
 				)
 			)
@@ -17833,7 +17834,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000470")
-		(property "Reference" "D_66"
+		(property "Reference" "D_48"
 			(at 335.28 121.412 90)
 			(hide yes)
 			(show_name no)
@@ -17927,7 +17928,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_66")
+					(reference "D_48")
 					(unit 1)
 				)
 			)
@@ -17956,7 +17957,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000471")
-		(property "Reference" "K_66"
+		(property "Reference" "K_48"
 			(at 331.47 110.9218 0)
 			(hide yes)
 			(show_name no)
@@ -17978,7 +17979,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 331.47 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -18026,7 +18027,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_66")
+					(reference "K_48")
 					(unit 1)
 				)
 			)
@@ -18055,7 +18056,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000480")
-		(property "Reference" "D_73"
+		(property "Reference" "D_49"
 			(at 360.68 121.412 90)
 			(hide yes)
 			(show_name no)
@@ -18149,7 +18150,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_73")
+					(reference "D_49")
 					(unit 1)
 				)
 			)
@@ -18178,7 +18179,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000481")
-		(property "Reference" "K_73"
+		(property "Reference" "K_49"
 			(at 356.87 110.9218 0)
 			(hide yes)
 			(show_name no)
@@ -18200,7 +18201,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 356.87 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -18248,7 +18249,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_73")
+					(reference "K_49")
 					(unit 1)
 				)
 			)
@@ -18277,7 +18278,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000490")
-		(property "Reference" "D_79"
+		(property "Reference" "D_50"
 			(at 386.08 121.412 90)
 			(hide yes)
 			(show_name no)
@@ -18371,7 +18372,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_79")
+					(reference "D_50")
 					(unit 1)
 				)
 			)
@@ -18400,7 +18401,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000491")
-		(property "Reference" "K_79"
+		(property "Reference" "K_50"
 			(at 382.27 110.9218 0)
 			(hide yes)
 			(show_name no)
@@ -18422,7 +18423,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 382.27 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -18470,7 +18471,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_79")
+					(reference "K_50")
 					(unit 1)
 				)
 			)
@@ -18499,7 +18500,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000500")
-		(property "Reference" "D_85"
+		(property "Reference" "D_51"
 			(at 411.48 121.412 90)
 			(hide yes)
 			(show_name no)
@@ -18593,7 +18594,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_85")
+					(reference "D_51")
 					(unit 1)
 				)
 			)
@@ -18622,7 +18623,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000501")
-		(property "Reference" "K_85"
+		(property "Reference" "K_51"
 			(at 407.67 110.9218 0)
 			(hide yes)
 			(show_name no)
@@ -18644,7 +18645,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 407.67 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -18692,7 +18693,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_85")
+					(reference "K_51")
 					(unit 1)
 				)
 			)
@@ -18721,7 +18722,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000510")
-		(property "Reference" "D_92"
+		(property "Reference" "D_52"
 			(at 436.88 121.412 90)
 			(hide yes)
 			(show_name no)
@@ -18815,7 +18816,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_92")
+					(reference "D_52")
 					(unit 1)
 				)
 			)
@@ -18844,7 +18845,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000511")
-		(property "Reference" "K_92"
+		(property "Reference" "K_52"
 			(at 433.07 110.9218 0)
 			(hide yes)
 			(show_name no)
@@ -18866,7 +18867,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 433.07 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -18914,7 +18915,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_92")
+					(reference "K_52")
 					(unit 1)
 				)
 			)
@@ -18943,7 +18944,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000520")
-		(property "Reference" "D_98"
+		(property "Reference" "D_53"
 			(at 462.28 121.412 90)
 			(hide yes)
 			(show_name no)
@@ -19037,7 +19038,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_98")
+					(reference "D_53")
 					(unit 1)
 				)
 			)
@@ -19066,7 +19067,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000521")
-		(property "Reference" "K_98"
+		(property "Reference" "K_53"
 			(at 458.47 110.9218 0)
 			(hide yes)
 			(show_name no)
@@ -19088,7 +19089,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 458.47 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -19136,7 +19137,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_98")
+					(reference "K_53")
 					(unit 1)
 				)
 			)
@@ -19165,7 +19166,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000530")
-		(property "Reference" "D_105"
+		(property "Reference" "D_54"
 			(at 487.68 121.412 90)
 			(hide yes)
 			(show_name no)
@@ -19259,7 +19260,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_105")
+					(reference "D_54")
 					(unit 1)
 				)
 			)
@@ -19288,7 +19289,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000531")
-		(property "Reference" "K_105"
+		(property "Reference" "K_54"
 			(at 483.87 110.9218 0)
 			(hide yes)
 			(show_name no)
@@ -19310,7 +19311,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 483.87 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -19358,7 +19359,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_105")
+					(reference "K_54")
 					(unit 1)
 				)
 			)
@@ -19387,7 +19388,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000540")
-		(property "Reference" "D_110"
+		(property "Reference" "D_55"
 			(at 513.08 121.412 90)
 			(hide yes)
 			(show_name no)
@@ -19481,7 +19482,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_110")
+					(reference "D_55")
 					(unit 1)
 				)
 			)
@@ -19510,7 +19511,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000541")
-		(property "Reference" "K_110"
+		(property "Reference" "K_55"
 			(at 509.27 110.9218 0)
 			(hide yes)
 			(show_name no)
@@ -19532,7 +19533,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 509.27 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -19580,7 +19581,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_110")
+					(reference "K_55")
 					(unit 1)
 				)
 			)
@@ -19609,7 +19610,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000550")
-		(property "Reference" "D_114"
+		(property "Reference" "D_56"
 			(at 538.48 121.412 90)
 			(hide yes)
 			(show_name no)
@@ -19703,7 +19704,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_114")
+					(reference "D_56")
 					(unit 1)
 				)
 			)
@@ -19732,7 +19733,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000551")
-		(property "Reference" "K_114"
+		(property "Reference" "K_56"
 			(at 534.67 110.9218 0)
 			(hide yes)
 			(show_name no)
@@ -19754,7 +19755,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 534.67 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -19802,7 +19803,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_114")
+					(reference "K_56")
 					(unit 1)
 				)
 			)
@@ -19831,7 +19832,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000560")
-		(property "Reference" "D_121"
+		(property "Reference" "D_57"
 			(at 563.88 121.412 90)
 			(hide yes)
 			(show_name no)
@@ -19925,7 +19926,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_121")
+					(reference "D_57")
 					(unit 1)
 				)
 			)
@@ -19954,7 +19955,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000561")
-		(property "Reference" "K_121"
+		(property "Reference" "K_57"
 			(at 560.07 110.9218 0)
 			(hide yes)
 			(show_name no)
@@ -19976,7 +19977,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 560.07 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -20024,7 +20025,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_121")
+					(reference "K_57")
 					(unit 1)
 				)
 			)
@@ -20053,7 +20054,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000570")
-		(property "Reference" "D_125"
+		(property "Reference" "D_58"
 			(at 589.28 121.412 90)
 			(hide yes)
 			(show_name no)
@@ -20147,7 +20148,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_125")
+					(reference "D_58")
 					(unit 1)
 				)
 			)
@@ -20176,7 +20177,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000571")
-		(property "Reference" "K_125"
+		(property "Reference" "K_58"
 			(at 585.47 110.9218 0)
 			(hide yes)
 			(show_name no)
@@ -20198,7 +20199,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 585.47 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -20246,7 +20247,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_125")
+					(reference "K_58")
 					(unit 1)
 				)
 			)
@@ -20275,7 +20276,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000580")
-		(property "Reference" "D_3"
+		(property "Reference" "D_59"
 			(at 55.88 146.812 90)
 			(hide yes)
 			(show_name no)
@@ -20369,7 +20370,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_3")
+					(reference "D_59")
 					(unit 1)
 				)
 			)
@@ -20398,7 +20399,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000581")
-		(property "Reference" "K_3"
+		(property "Reference" "K_59"
 			(at 52.07 136.3218 0)
 			(hide yes)
 			(show_name no)
@@ -20420,7 +20421,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 52.07 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -20468,7 +20469,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_3")
+					(reference "K_59")
 					(unit 1)
 				)
 			)
@@ -20497,7 +20498,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000590")
-		(property "Reference" "D_8"
+		(property "Reference" "D_60"
 			(at 81.28 146.812 90)
 			(hide yes)
 			(show_name no)
@@ -20591,7 +20592,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_8")
+					(reference "D_60")
 					(unit 1)
 				)
 			)
@@ -20620,7 +20621,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000591")
-		(property "Reference" "K_8"
+		(property "Reference" "K_60"
 			(at 77.47 136.3218 0)
 			(hide yes)
 			(show_name no)
@@ -20642,7 +20643,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 77.47 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -20690,7 +20691,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_8")
+					(reference "K_60")
 					(unit 1)
 				)
 			)
@@ -20719,7 +20720,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000600")
-		(property "Reference" "D_14"
+		(property "Reference" "D_61"
 			(at 106.68 146.812 90)
 			(hide yes)
 			(show_name no)
@@ -20813,7 +20814,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_14")
+					(reference "D_61")
 					(unit 1)
 				)
 			)
@@ -20842,7 +20843,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000601")
-		(property "Reference" "K_14"
+		(property "Reference" "K_61"
 			(at 102.87 136.3218 0)
 			(hide yes)
 			(show_name no)
@@ -20864,7 +20865,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 102.87 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -20912,7 +20913,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_14")
+					(reference "K_61")
 					(unit 1)
 				)
 			)
@@ -20941,7 +20942,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000610")
-		(property "Reference" "D_21"
+		(property "Reference" "D_62"
 			(at 132.08 146.812 90)
 			(hide yes)
 			(show_name no)
@@ -21035,7 +21036,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_21")
+					(reference "D_62")
 					(unit 1)
 				)
 			)
@@ -21064,7 +21065,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000611")
-		(property "Reference" "K_21"
+		(property "Reference" "K_62"
 			(at 128.27 136.3218 0)
 			(hide yes)
 			(show_name no)
@@ -21086,7 +21087,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 128.27 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -21134,7 +21135,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_21")
+					(reference "K_62")
 					(unit 1)
 				)
 			)
@@ -21163,7 +21164,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000620")
-		(property "Reference" "D_27"
+		(property "Reference" "D_63"
 			(at 157.48 146.812 90)
 			(hide yes)
 			(show_name no)
@@ -21257,7 +21258,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_27")
+					(reference "D_63")
 					(unit 1)
 				)
 			)
@@ -21286,7 +21287,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000621")
-		(property "Reference" "K_27"
+		(property "Reference" "K_63"
 			(at 153.67 136.3218 0)
 			(hide yes)
 			(show_name no)
@@ -21308,7 +21309,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 153.67 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -21356,7 +21357,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_27")
+					(reference "K_63")
 					(unit 1)
 				)
 			)
@@ -21385,7 +21386,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000630")
-		(property "Reference" "D_34"
+		(property "Reference" "D_64"
 			(at 182.88 146.812 90)
 			(hide yes)
 			(show_name no)
@@ -21479,7 +21480,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_34")
+					(reference "D_64")
 					(unit 1)
 				)
 			)
@@ -21508,7 +21509,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000631")
-		(property "Reference" "K_34"
+		(property "Reference" "K_64"
 			(at 179.07 136.3218 0)
 			(hide yes)
 			(show_name no)
@@ -21530,7 +21531,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 179.07 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -21578,7 +21579,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_34")
+					(reference "K_64")
 					(unit 1)
 				)
 			)
@@ -21607,7 +21608,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000640")
-		(property "Reference" "D_41"
+		(property "Reference" "D_65"
 			(at 208.28 146.812 90)
 			(hide yes)
 			(show_name no)
@@ -21701,7 +21702,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_41")
+					(reference "D_65")
 					(unit 1)
 				)
 			)
@@ -21730,7 +21731,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000641")
-		(property "Reference" "K_41"
+		(property "Reference" "K_65"
 			(at 204.47 136.3218 0)
 			(hide yes)
 			(show_name no)
@@ -21752,7 +21753,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 204.47 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -21800,7 +21801,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_41")
+					(reference "K_65")
 					(unit 1)
 				)
 			)
@@ -21829,7 +21830,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000650")
-		(property "Reference" "D_48"
+		(property "Reference" "D_66"
 			(at 233.68 146.812 90)
 			(hide yes)
 			(show_name no)
@@ -21923,7 +21924,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_48")
+					(reference "D_66")
 					(unit 1)
 				)
 			)
@@ -21952,7 +21953,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000651")
-		(property "Reference" "K_48"
+		(property "Reference" "K_66"
 			(at 229.87 136.3218 0)
 			(hide yes)
 			(show_name no)
@@ -21974,7 +21975,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 229.87 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -22022,7 +22023,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_48")
+					(reference "K_66")
 					(unit 1)
 				)
 			)
@@ -22051,7 +22052,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000660")
-		(property "Reference" "D_55"
+		(property "Reference" "D_67"
 			(at 284.48 146.812 90)
 			(hide yes)
 			(show_name no)
@@ -22145,7 +22146,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_55")
+					(reference "D_67")
 					(unit 1)
 				)
 			)
@@ -22174,7 +22175,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000661")
-		(property "Reference" "K_55"
+		(property "Reference" "K_67"
 			(at 280.67 136.3218 0)
 			(hide yes)
 			(show_name no)
@@ -22196,7 +22197,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 280.67 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -22244,7 +22245,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_55")
+					(reference "K_67")
 					(unit 1)
 				)
 			)
@@ -22273,7 +22274,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000670")
-		(property "Reference" "D_61"
+		(property "Reference" "D_68"
 			(at 309.88 146.812 90)
 			(hide yes)
 			(show_name no)
@@ -22367,7 +22368,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_61")
+					(reference "D_68")
 					(unit 1)
 				)
 			)
@@ -22396,7 +22397,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000671")
-		(property "Reference" "K_61"
+		(property "Reference" "K_68"
 			(at 306.07 136.3218 0)
 			(hide yes)
 			(show_name no)
@@ -22418,7 +22419,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 306.07 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -22466,7 +22467,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_61")
+					(reference "K_68")
 					(unit 1)
 				)
 			)
@@ -22495,7 +22496,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000680")
-		(property "Reference" "D_67"
+		(property "Reference" "D_69"
 			(at 335.28 146.812 90)
 			(hide yes)
 			(show_name no)
@@ -22589,7 +22590,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_67")
+					(reference "D_69")
 					(unit 1)
 				)
 			)
@@ -22618,7 +22619,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000681")
-		(property "Reference" "K_67"
+		(property "Reference" "K_69"
 			(at 331.47 136.3218 0)
 			(hide yes)
 			(show_name no)
@@ -22640,7 +22641,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 331.47 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -22688,7 +22689,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_67")
+					(reference "K_69")
 					(unit 1)
 				)
 			)
@@ -22717,7 +22718,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000690")
-		(property "Reference" "D_74"
+		(property "Reference" "D_70"
 			(at 360.68 146.812 90)
 			(hide yes)
 			(show_name no)
@@ -22811,7 +22812,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_74")
+					(reference "D_70")
 					(unit 1)
 				)
 			)
@@ -22840,7 +22841,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000691")
-		(property "Reference" "K_74"
+		(property "Reference" "K_70"
 			(at 356.87 136.3218 0)
 			(hide yes)
 			(show_name no)
@@ -22862,7 +22863,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 356.87 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -22910,7 +22911,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_74")
+					(reference "K_70")
 					(unit 1)
 				)
 			)
@@ -22939,7 +22940,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000700")
-		(property "Reference" "D_80"
+		(property "Reference" "D_71"
 			(at 386.08 146.812 90)
 			(hide yes)
 			(show_name no)
@@ -23033,7 +23034,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_80")
+					(reference "D_71")
 					(unit 1)
 				)
 			)
@@ -23062,7 +23063,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000701")
-		(property "Reference" "K_80"
+		(property "Reference" "K_71"
 			(at 382.27 136.3218 0)
 			(hide yes)
 			(show_name no)
@@ -23084,7 +23085,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 382.27 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -23132,7 +23133,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_80")
+					(reference "K_71")
 					(unit 1)
 				)
 			)
@@ -23161,7 +23162,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000710")
-		(property "Reference" "D_86"
+		(property "Reference" "D_72"
 			(at 411.48 146.812 90)
 			(hide yes)
 			(show_name no)
@@ -23255,7 +23256,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_86")
+					(reference "D_72")
 					(unit 1)
 				)
 			)
@@ -23284,7 +23285,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000711")
-		(property "Reference" "K_86"
+		(property "Reference" "K_72"
 			(at 407.67 136.3218 0)
 			(hide yes)
 			(show_name no)
@@ -23306,7 +23307,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 407.67 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -23354,7 +23355,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_86")
+					(reference "K_72")
 					(unit 1)
 				)
 			)
@@ -23383,7 +23384,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000720")
-		(property "Reference" "D_93"
+		(property "Reference" "D_73"
 			(at 436.88 146.812 90)
 			(hide yes)
 			(show_name no)
@@ -23477,7 +23478,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_93")
+					(reference "D_73")
 					(unit 1)
 				)
 			)
@@ -23506,7 +23507,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000721")
-		(property "Reference" "K_93"
+		(property "Reference" "K_73"
 			(at 433.07 136.3218 0)
 			(hide yes)
 			(show_name no)
@@ -23528,7 +23529,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 433.07 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -23576,7 +23577,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_93")
+					(reference "K_73")
 					(unit 1)
 				)
 			)
@@ -23605,7 +23606,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000730")
-		(property "Reference" "D_99"
+		(property "Reference" "D_74"
 			(at 462.28 146.812 90)
 			(hide yes)
 			(show_name no)
@@ -23699,7 +23700,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_99")
+					(reference "D_74")
 					(unit 1)
 				)
 			)
@@ -23728,7 +23729,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000731")
-		(property "Reference" "K_99"
+		(property "Reference" "K_74"
 			(at 458.47 136.3218 0)
 			(hide yes)
 			(show_name no)
@@ -23750,7 +23751,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 458.47 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -23798,7 +23799,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_99")
+					(reference "K_74")
 					(unit 1)
 				)
 			)
@@ -23827,7 +23828,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000740")
-		(property "Reference" "D_106"
+		(property "Reference" "D_75"
 			(at 487.68 146.812 90)
 			(hide yes)
 			(show_name no)
@@ -23921,7 +23922,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_106")
+					(reference "D_75")
 					(unit 1)
 				)
 			)
@@ -23950,7 +23951,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000741")
-		(property "Reference" "K_106"
+		(property "Reference" "K_75"
 			(at 483.87 136.3218 0)
 			(hide yes)
 			(show_name no)
@@ -23972,7 +23973,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 483.87 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -24020,7 +24021,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_106")
+					(reference "K_75")
 					(unit 1)
 				)
 			)
@@ -24049,7 +24050,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000750")
-		(property "Reference" "D_111"
+		(property "Reference" "D_76"
 			(at 513.08 146.812 90)
 			(hide yes)
 			(show_name no)
@@ -24143,7 +24144,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_111")
+					(reference "D_76")
 					(unit 1)
 				)
 			)
@@ -24172,7 +24173,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000751")
-		(property "Reference" "K_111"
+		(property "Reference" "K_76"
 			(at 509.27 136.3218 0)
 			(hide yes)
 			(show_name no)
@@ -24194,7 +24195,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 509.27 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -24242,7 +24243,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_111")
+					(reference "K_76")
 					(unit 1)
 				)
 			)
@@ -24271,7 +24272,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000760")
-		(property "Reference" "D_115"
+		(property "Reference" "D_77"
 			(at 538.48 146.812 90)
 			(hide yes)
 			(show_name no)
@@ -24365,7 +24366,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_115")
+					(reference "D_77")
 					(unit 1)
 				)
 			)
@@ -24394,7 +24395,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000761")
-		(property "Reference" "K_115"
+		(property "Reference" "K_77"
 			(at 534.67 136.3218 0)
 			(hide yes)
 			(show_name no)
@@ -24416,7 +24417,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 534.67 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -24464,7 +24465,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_115")
+					(reference "K_77")
 					(unit 1)
 				)
 			)
@@ -24493,7 +24494,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000770")
-		(property "Reference" "D_122"
+		(property "Reference" "D_78"
 			(at 563.88 146.812 90)
 			(hide yes)
 			(show_name no)
@@ -24587,7 +24588,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_122")
+					(reference "D_78")
 					(unit 1)
 				)
 			)
@@ -24616,7 +24617,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000771")
-		(property "Reference" "K_122"
+		(property "Reference" "K_78"
 			(at 560.07 136.3218 0)
 			(hide yes)
 			(show_name no)
@@ -24638,7 +24639,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 560.07 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -24686,7 +24687,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_122")
+					(reference "K_78")
 					(unit 1)
 				)
 			)
@@ -24715,7 +24716,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000780")
-		(property "Reference" "D_126"
+		(property "Reference" "D_79"
 			(at 589.28 146.812 90)
 			(hide yes)
 			(show_name no)
@@ -24809,7 +24810,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_126")
+					(reference "D_79")
 					(unit 1)
 				)
 			)
@@ -24838,7 +24839,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000781")
-		(property "Reference" "K_126"
+		(property "Reference" "K_79"
 			(at 585.47 136.3218 0)
 			(hide yes)
 			(show_name no)
@@ -24860,7 +24861,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 585.47 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -24908,7 +24909,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_126")
+					(reference "K_79")
 					(unit 1)
 				)
 			)
@@ -24937,7 +24938,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000790")
-		(property "Reference" "D_4"
+		(property "Reference" "D_80"
 			(at 55.88 172.212 90)
 			(hide yes)
 			(show_name no)
@@ -25031,7 +25032,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_4")
+					(reference "D_80")
 					(unit 1)
 				)
 			)
@@ -25060,7 +25061,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000791")
-		(property "Reference" "K_4"
+		(property "Reference" "K_80"
 			(at 52.07 161.7218 0)
 			(hide yes)
 			(show_name no)
@@ -25082,7 +25083,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 52.07 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -25130,7 +25131,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_4")
+					(reference "K_80")
 					(unit 1)
 				)
 			)
@@ -25159,7 +25160,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000800")
-		(property "Reference" "D_9"
+		(property "Reference" "D_81"
 			(at 81.28 172.212 90)
 			(hide yes)
 			(show_name no)
@@ -25253,7 +25254,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_9")
+					(reference "D_81")
 					(unit 1)
 				)
 			)
@@ -25282,7 +25283,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000801")
-		(property "Reference" "K_9"
+		(property "Reference" "K_81"
 			(at 77.47 161.7218 0)
 			(hide yes)
 			(show_name no)
@@ -25304,7 +25305,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 77.47 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -25352,7 +25353,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_9")
+					(reference "K_81")
 					(unit 1)
 				)
 			)
@@ -25381,7 +25382,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000810")
-		(property "Reference" "D_15"
+		(property "Reference" "D_82"
 			(at 106.68 172.212 90)
 			(hide yes)
 			(show_name no)
@@ -25475,7 +25476,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_15")
+					(reference "D_82")
 					(unit 1)
 				)
 			)
@@ -25504,7 +25505,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000811")
-		(property "Reference" "K_15"
+		(property "Reference" "K_82"
 			(at 102.87 161.7218 0)
 			(hide yes)
 			(show_name no)
@@ -25526,7 +25527,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 102.87 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -25574,7 +25575,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_15")
+					(reference "K_82")
 					(unit 1)
 				)
 			)
@@ -25603,7 +25604,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000820")
-		(property "Reference" "D_22"
+		(property "Reference" "D_83"
 			(at 132.08 172.212 90)
 			(hide yes)
 			(show_name no)
@@ -25697,7 +25698,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_22")
+					(reference "D_83")
 					(unit 1)
 				)
 			)
@@ -25726,7 +25727,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000821")
-		(property "Reference" "K_22"
+		(property "Reference" "K_83"
 			(at 128.27 161.7218 0)
 			(hide yes)
 			(show_name no)
@@ -25748,7 +25749,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 128.27 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -25796,7 +25797,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_22")
+					(reference "K_83")
 					(unit 1)
 				)
 			)
@@ -25825,7 +25826,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000830")
-		(property "Reference" "D_28"
+		(property "Reference" "D_84"
 			(at 157.48 172.212 90)
 			(hide yes)
 			(show_name no)
@@ -25919,7 +25920,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_28")
+					(reference "D_84")
 					(unit 1)
 				)
 			)
@@ -25948,7 +25949,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000831")
-		(property "Reference" "K_28"
+		(property "Reference" "K_84"
 			(at 153.67 161.7218 0)
 			(hide yes)
 			(show_name no)
@@ -25970,7 +25971,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 153.67 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -26018,7 +26019,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_28")
+					(reference "K_84")
 					(unit 1)
 				)
 			)
@@ -26047,7 +26048,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000840")
-		(property "Reference" "D_35"
+		(property "Reference" "D_85"
 			(at 182.88 172.212 90)
 			(hide yes)
 			(show_name no)
@@ -26141,7 +26142,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_35")
+					(reference "D_85")
 					(unit 1)
 				)
 			)
@@ -26170,7 +26171,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000841")
-		(property "Reference" "K_35"
+		(property "Reference" "K_85"
 			(at 179.07 161.7218 0)
 			(hide yes)
 			(show_name no)
@@ -26192,7 +26193,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 179.07 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -26240,7 +26241,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_35")
+					(reference "K_85")
 					(unit 1)
 				)
 			)
@@ -26269,7 +26270,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000850")
-		(property "Reference" "D_42"
+		(property "Reference" "D_86"
 			(at 208.28 172.212 90)
 			(hide yes)
 			(show_name no)
@@ -26363,7 +26364,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_42")
+					(reference "D_86")
 					(unit 1)
 				)
 			)
@@ -26392,7 +26393,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000851")
-		(property "Reference" "K_42"
+		(property "Reference" "K_86"
 			(at 204.47 161.7218 0)
 			(hide yes)
 			(show_name no)
@@ -26414,7 +26415,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 204.47 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -26462,7 +26463,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_42")
+					(reference "K_86")
 					(unit 1)
 				)
 			)
@@ -26491,7 +26492,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000860")
-		(property "Reference" "D_49"
+		(property "Reference" "D_87"
 			(at 233.68 172.212 90)
 			(hide yes)
 			(show_name no)
@@ -26585,7 +26586,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_49")
+					(reference "D_87")
 					(unit 1)
 				)
 			)
@@ -26614,7 +26615,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000861")
-		(property "Reference" "K_49"
+		(property "Reference" "K_87"
 			(at 229.87 161.7218 0)
 			(hide yes)
 			(show_name no)
@@ -26636,7 +26637,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 229.87 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -26684,7 +26685,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_49")
+					(reference "K_87")
 					(unit 1)
 				)
 			)
@@ -26713,7 +26714,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000870")
-		(property "Reference" "D_56"
+		(property "Reference" "D_88"
 			(at 284.48 172.212 90)
 			(hide yes)
 			(show_name no)
@@ -26807,7 +26808,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_56")
+					(reference "D_88")
 					(unit 1)
 				)
 			)
@@ -26836,7 +26837,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000871")
-		(property "Reference" "K_56"
+		(property "Reference" "K_88"
 			(at 280.67 161.7218 0)
 			(hide yes)
 			(show_name no)
@@ -26858,7 +26859,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 280.67 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -26906,7 +26907,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_56")
+					(reference "K_88")
 					(unit 1)
 				)
 			)
@@ -26935,7 +26936,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000880")
-		(property "Reference" "D_62"
+		(property "Reference" "D_89"
 			(at 309.88 172.212 90)
 			(hide yes)
 			(show_name no)
@@ -27029,7 +27030,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_62")
+					(reference "D_89")
 					(unit 1)
 				)
 			)
@@ -27058,7 +27059,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000881")
-		(property "Reference" "K_62"
+		(property "Reference" "K_89"
 			(at 306.07 161.7218 0)
 			(hide yes)
 			(show_name no)
@@ -27080,7 +27081,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 306.07 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -27128,7 +27129,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_62")
+					(reference "K_89")
 					(unit 1)
 				)
 			)
@@ -27157,7 +27158,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000890")
-		(property "Reference" "D_68"
+		(property "Reference" "D_90"
 			(at 335.28 172.212 90)
 			(hide yes)
 			(show_name no)
@@ -27251,7 +27252,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_68")
+					(reference "D_90")
 					(unit 1)
 				)
 			)
@@ -27280,7 +27281,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000891")
-		(property "Reference" "K_68"
+		(property "Reference" "K_90"
 			(at 331.47 161.7218 0)
 			(hide yes)
 			(show_name no)
@@ -27302,7 +27303,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 331.47 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -27350,7 +27351,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_68")
+					(reference "K_90")
 					(unit 1)
 				)
 			)
@@ -27379,7 +27380,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000900")
-		(property "Reference" "D_75"
+		(property "Reference" "D_91"
 			(at 360.68 172.212 90)
 			(hide yes)
 			(show_name no)
@@ -27473,7 +27474,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_75")
+					(reference "D_91")
 					(unit 1)
 				)
 			)
@@ -27502,7 +27503,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000901")
-		(property "Reference" "K_75"
+		(property "Reference" "K_91"
 			(at 356.87 161.7218 0)
 			(hide yes)
 			(show_name no)
@@ -27524,7 +27525,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 356.87 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -27572,7 +27573,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_75")
+					(reference "K_91")
 					(unit 1)
 				)
 			)
@@ -27601,7 +27602,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000910")
-		(property "Reference" "D_81"
+		(property "Reference" "D_92"
 			(at 386.08 172.212 90)
 			(hide yes)
 			(show_name no)
@@ -27695,7 +27696,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_81")
+					(reference "D_92")
 					(unit 1)
 				)
 			)
@@ -27724,7 +27725,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000911")
-		(property "Reference" "K_81"
+		(property "Reference" "K_92"
 			(at 382.27 161.7218 0)
 			(hide yes)
 			(show_name no)
@@ -27746,7 +27747,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 382.27 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -27794,7 +27795,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_81")
+					(reference "K_92")
 					(unit 1)
 				)
 			)
@@ -27823,7 +27824,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000920")
-		(property "Reference" "D_87"
+		(property "Reference" "D_93"
 			(at 411.48 172.212 90)
 			(hide yes)
 			(show_name no)
@@ -27917,7 +27918,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_87")
+					(reference "D_93")
 					(unit 1)
 				)
 			)
@@ -27946,7 +27947,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000921")
-		(property "Reference" "K_87"
+		(property "Reference" "K_93"
 			(at 407.67 161.7218 0)
 			(hide yes)
 			(show_name no)
@@ -27968,7 +27969,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 407.67 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -28016,7 +28017,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_87")
+					(reference "K_93")
 					(unit 1)
 				)
 			)
@@ -28190,7 +28191,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 433.07 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -28267,7 +28268,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000940")
-		(property "Reference" "D_100"
+		(property "Reference" "D_95"
 			(at 462.28 172.212 90)
 			(hide yes)
 			(show_name no)
@@ -28361,7 +28362,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_100")
+					(reference "D_95")
 					(unit 1)
 				)
 			)
@@ -28390,7 +28391,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000941")
-		(property "Reference" "K_100"
+		(property "Reference" "K_95"
 			(at 458.47 161.7218 0)
 			(hide yes)
 			(show_name no)
@@ -28412,7 +28413,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 458.47 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -28460,7 +28461,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_100")
+					(reference "K_95")
 					(unit 1)
 				)
 			)
@@ -28489,7 +28490,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000950")
-		(property "Reference" "D_107"
+		(property "Reference" "D_96"
 			(at 487.68 172.212 90)
 			(hide yes)
 			(show_name no)
@@ -28583,7 +28584,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_107")
+					(reference "D_96")
 					(unit 1)
 				)
 			)
@@ -28612,7 +28613,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000951")
-		(property "Reference" "K_107"
+		(property "Reference" "K_96"
 			(at 483.87 161.7218 0)
 			(hide yes)
 			(show_name no)
@@ -28634,7 +28635,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 483.87 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -28682,7 +28683,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_107")
+					(reference "K_96")
 					(unit 1)
 				)
 			)
@@ -28711,7 +28712,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000960")
-		(property "Reference" "D_116"
+		(property "Reference" "D_97"
 			(at 538.48 172.212 90)
 			(hide yes)
 			(show_name no)
@@ -28805,7 +28806,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_116")
+					(reference "D_97")
 					(unit 1)
 				)
 			)
@@ -28834,7 +28835,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000961")
-		(property "Reference" "K_116"
+		(property "Reference" "K_97"
 			(at 534.67 161.7218 0)
 			(hide yes)
 			(show_name no)
@@ -28856,7 +28857,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 534.67 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -28904,7 +28905,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_116")
+					(reference "K_97")
 					(unit 1)
 				)
 			)
@@ -28933,7 +28934,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000970")
-		(property "Reference" "D_123"
+		(property "Reference" "D_98"
 			(at 563.88 172.212 90)
 			(hide yes)
 			(show_name no)
@@ -29027,7 +29028,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_123")
+					(reference "D_98")
 					(unit 1)
 				)
 			)
@@ -29056,7 +29057,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000971")
-		(property "Reference" "K_123"
+		(property "Reference" "K_98"
 			(at 560.07 161.7218 0)
 			(hide yes)
 			(show_name no)
@@ -29078,7 +29079,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 560.07 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -29126,7 +29127,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_123")
+					(reference "K_98")
 					(unit 1)
 				)
 			)
@@ -29155,7 +29156,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000980")
-		(property "Reference" "D_127"
+		(property "Reference" "D_99"
 			(at 589.28 172.212 90)
 			(hide yes)
 			(show_name no)
@@ -29249,7 +29250,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_127")
+					(reference "D_99")
 					(unit 1)
 				)
 			)
@@ -29278,7 +29279,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000981")
-		(property "Reference" "K_127"
+		(property "Reference" "K_99"
 			(at 585.47 161.7218 0)
 			(hide yes)
 			(show_name no)
@@ -29300,7 +29301,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 585.47 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -29348,7 +29349,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_127")
+					(reference "K_99")
 					(unit 1)
 				)
 			)
@@ -29377,7 +29378,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000990")
-		(property "Reference" "D_5"
+		(property "Reference" "D_100"
 			(at 55.88 197.612 90)
 			(hide yes)
 			(show_name no)
@@ -29471,7 +29472,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_5")
+					(reference "D_100")
 					(unit 1)
 				)
 			)
@@ -29500,7 +29501,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000000991")
-		(property "Reference" "K_5"
+		(property "Reference" "K_100"
 			(at 52.07 187.1218 0)
 			(hide yes)
 			(show_name no)
@@ -29522,7 +29523,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 52.07 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -29570,7 +29571,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_5")
+					(reference "K_100")
 					(unit 1)
 				)
 			)
@@ -29599,7 +29600,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001000")
-		(property "Reference" "D_10"
+		(property "Reference" "D_101"
 			(at 81.28 197.612 90)
 			(hide yes)
 			(show_name no)
@@ -29693,7 +29694,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_10")
+					(reference "D_101")
 					(unit 1)
 				)
 			)
@@ -29722,7 +29723,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001001")
-		(property "Reference" "K_10"
+		(property "Reference" "K_101"
 			(at 77.47 187.1218 0)
 			(hide yes)
 			(show_name no)
@@ -29744,7 +29745,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 77.47 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -29792,7 +29793,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_10")
+					(reference "K_101")
 					(unit 1)
 				)
 			)
@@ -29821,7 +29822,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001010")
-		(property "Reference" "D_16"
+		(property "Reference" "D_102"
 			(at 106.68 197.612 90)
 			(hide yes)
 			(show_name no)
@@ -29915,7 +29916,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_16")
+					(reference "D_102")
 					(unit 1)
 				)
 			)
@@ -29944,7 +29945,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001011")
-		(property "Reference" "K_16"
+		(property "Reference" "K_102"
 			(at 102.87 187.1218 0)
 			(hide yes)
 			(show_name no)
@@ -29966,7 +29967,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 102.87 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -30014,7 +30015,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_16")
+					(reference "K_102")
 					(unit 1)
 				)
 			)
@@ -30043,7 +30044,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001020")
-		(property "Reference" "D_23"
+		(property "Reference" "D_103"
 			(at 132.08 197.612 90)
 			(hide yes)
 			(show_name no)
@@ -30137,7 +30138,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_23")
+					(reference "D_103")
 					(unit 1)
 				)
 			)
@@ -30166,7 +30167,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001021")
-		(property "Reference" "K_23"
+		(property "Reference" "K_103"
 			(at 128.27 187.1218 0)
 			(hide yes)
 			(show_name no)
@@ -30188,7 +30189,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 128.27 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -30236,7 +30237,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_23")
+					(reference "K_103")
 					(unit 1)
 				)
 			)
@@ -30265,7 +30266,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001030")
-		(property "Reference" "D_29"
+		(property "Reference" "D_104"
 			(at 157.48 197.612 90)
 			(hide yes)
 			(show_name no)
@@ -30359,7 +30360,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_29")
+					(reference "D_104")
 					(unit 1)
 				)
 			)
@@ -30388,7 +30389,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001031")
-		(property "Reference" "K_29"
+		(property "Reference" "K_104"
 			(at 153.67 187.1218 0)
 			(hide yes)
 			(show_name no)
@@ -30410,7 +30411,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 153.67 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -30458,7 +30459,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_29")
+					(reference "K_104")
 					(unit 1)
 				)
 			)
@@ -30487,7 +30488,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001040")
-		(property "Reference" "D_36"
+		(property "Reference" "D_105"
 			(at 182.88 197.612 90)
 			(hide yes)
 			(show_name no)
@@ -30581,7 +30582,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_36")
+					(reference "D_105")
 					(unit 1)
 				)
 			)
@@ -30610,7 +30611,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001041")
-		(property "Reference" "K_36"
+		(property "Reference" "K_105"
 			(at 179.07 187.1218 0)
 			(hide yes)
 			(show_name no)
@@ -30632,7 +30633,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 179.07 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -30680,7 +30681,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_36")
+					(reference "K_105")
 					(unit 1)
 				)
 			)
@@ -30709,7 +30710,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001050")
-		(property "Reference" "D_43"
+		(property "Reference" "D_106"
 			(at 208.28 197.612 90)
 			(hide yes)
 			(show_name no)
@@ -30803,7 +30804,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_43")
+					(reference "D_106")
 					(unit 1)
 				)
 			)
@@ -30832,7 +30833,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001051")
-		(property "Reference" "K_43"
+		(property "Reference" "K_106"
 			(at 204.47 187.1218 0)
 			(hide yes)
 			(show_name no)
@@ -30854,7 +30855,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 204.47 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -30902,7 +30903,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_43")
+					(reference "K_106")
 					(unit 1)
 				)
 			)
@@ -30931,7 +30932,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001060")
-		(property "Reference" "D_50"
+		(property "Reference" "D_107"
 			(at 233.68 197.612 90)
 			(hide yes)
 			(show_name no)
@@ -31025,7 +31026,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_50")
+					(reference "D_107")
 					(unit 1)
 				)
 			)
@@ -31054,7 +31055,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001061")
-		(property "Reference" "K_50"
+		(property "Reference" "K_107"
 			(at 229.87 187.1218 0)
 			(hide yes)
 			(show_name no)
@@ -31076,7 +31077,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 229.87 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -31124,7 +31125,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_50")
+					(reference "K_107")
 					(unit 1)
 				)
 			)
@@ -31153,7 +31154,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001070")
-		(property "Reference" "D_57"
+		(property "Reference" "D_108"
 			(at 284.48 197.612 90)
 			(hide yes)
 			(show_name no)
@@ -31247,7 +31248,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_57")
+					(reference "D_108")
 					(unit 1)
 				)
 			)
@@ -31276,7 +31277,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001071")
-		(property "Reference" "K_57"
+		(property "Reference" "K_108"
 			(at 280.67 187.1218 0)
 			(hide yes)
 			(show_name no)
@@ -31298,7 +31299,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 280.67 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -31346,7 +31347,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_57")
+					(reference "K_108")
 					(unit 1)
 				)
 			)
@@ -31375,7 +31376,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001080")
-		(property "Reference" "D_63"
+		(property "Reference" "D_109"
 			(at 309.88 197.612 90)
 			(hide yes)
 			(show_name no)
@@ -31469,7 +31470,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_63")
+					(reference "D_109")
 					(unit 1)
 				)
 			)
@@ -31498,7 +31499,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001081")
-		(property "Reference" "K_63"
+		(property "Reference" "K_109"
 			(at 306.07 187.1218 0)
 			(hide yes)
 			(show_name no)
@@ -31520,7 +31521,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 306.07 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -31568,7 +31569,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_63")
+					(reference "K_109")
 					(unit 1)
 				)
 			)
@@ -31597,7 +31598,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001090")
-		(property "Reference" "D_69"
+		(property "Reference" "D_110"
 			(at 335.28 197.612 90)
 			(hide yes)
 			(show_name no)
@@ -31691,7 +31692,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_69")
+					(reference "D_110")
 					(unit 1)
 				)
 			)
@@ -31720,7 +31721,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001091")
-		(property "Reference" "K_69"
+		(property "Reference" "K_110"
 			(at 331.47 187.1218 0)
 			(hide yes)
 			(show_name no)
@@ -31742,7 +31743,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 331.47 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -31790,7 +31791,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_69")
+					(reference "K_110")
 					(unit 1)
 				)
 			)
@@ -31819,7 +31820,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001100")
-		(property "Reference" "D_76"
+		(property "Reference" "D_111"
 			(at 360.68 197.612 90)
 			(hide yes)
 			(show_name no)
@@ -31913,7 +31914,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_76")
+					(reference "D_111")
 					(unit 1)
 				)
 			)
@@ -31942,7 +31943,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001101")
-		(property "Reference" "K_76"
+		(property "Reference" "K_111"
 			(at 356.87 187.1218 0)
 			(hide yes)
 			(show_name no)
@@ -31964,7 +31965,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 356.87 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -32012,7 +32013,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_76")
+					(reference "K_111")
 					(unit 1)
 				)
 			)
@@ -32041,7 +32042,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001110")
-		(property "Reference" "D_82"
+		(property "Reference" "D_112"
 			(at 386.08 197.612 90)
 			(hide yes)
 			(show_name no)
@@ -32135,7 +32136,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_82")
+					(reference "D_112")
 					(unit 1)
 				)
 			)
@@ -32164,7 +32165,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001111")
-		(property "Reference" "K_82"
+		(property "Reference" "K_112"
 			(at 382.27 187.1218 0)
 			(hide yes)
 			(show_name no)
@@ -32186,7 +32187,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 382.27 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -32234,7 +32235,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_82")
+					(reference "K_112")
 					(unit 1)
 				)
 			)
@@ -32263,7 +32264,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001120")
-		(property "Reference" "D_88"
+		(property "Reference" "D_113"
 			(at 411.48 197.612 90)
 			(hide yes)
 			(show_name no)
@@ -32357,7 +32358,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_88")
+					(reference "D_113")
 					(unit 1)
 				)
 			)
@@ -32386,7 +32387,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001121")
-		(property "Reference" "K_88"
+		(property "Reference" "K_113"
 			(at 407.67 187.1218 0)
 			(hide yes)
 			(show_name no)
@@ -32408,7 +32409,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 407.67 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -32456,7 +32457,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_88")
+					(reference "K_113")
 					(unit 1)
 				)
 			)
@@ -32485,7 +32486,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001130")
-		(property "Reference" "D_95"
+		(property "Reference" "D_114"
 			(at 436.88 197.612 90)
 			(hide yes)
 			(show_name no)
@@ -32579,7 +32580,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_95")
+					(reference "D_114")
 					(unit 1)
 				)
 			)
@@ -32608,7 +32609,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001131")
-		(property "Reference" "K_95"
+		(property "Reference" "K_114"
 			(at 433.07 187.1218 0)
 			(hide yes)
 			(show_name no)
@@ -32630,7 +32631,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 433.07 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -32678,7 +32679,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_95")
+					(reference "K_114")
 					(unit 1)
 				)
 			)
@@ -32707,7 +32708,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001140")
-		(property "Reference" "D_101"
+		(property "Reference" "D_115"
 			(at 462.28 197.612 90)
 			(hide yes)
 			(show_name no)
@@ -32801,7 +32802,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_101")
+					(reference "D_115")
 					(unit 1)
 				)
 			)
@@ -32830,7 +32831,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001141")
-		(property "Reference" "K_101"
+		(property "Reference" "K_115"
 			(at 458.47 187.1218 0)
 			(hide yes)
 			(show_name no)
@@ -32852,7 +32853,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 458.47 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -32900,7 +32901,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_101")
+					(reference "K_115")
 					(unit 1)
 				)
 			)
@@ -32929,7 +32930,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001150")
-		(property "Reference" "D_117"
+		(property "Reference" "D_116"
 			(at 538.48 197.612 90)
 			(hide yes)
 			(show_name no)
@@ -33023,7 +33024,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_117")
+					(reference "D_116")
 					(unit 1)
 				)
 			)
@@ -33052,7 +33053,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001151")
-		(property "Reference" "K_117"
+		(property "Reference" "K_116"
 			(at 534.67 187.1218 0)
 			(hide yes)
 			(show_name no)
@@ -33074,7 +33075,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 534.67 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -33122,7 +33123,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_117")
+					(reference "K_116")
 					(unit 1)
 				)
 			)
@@ -33151,7 +33152,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001160")
-		(property "Reference" "D_6"
+		(property "Reference" "D_117"
 			(at 55.88 223.012 90)
 			(hide yes)
 			(show_name no)
@@ -33245,7 +33246,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_6")
+					(reference "D_117")
 					(unit 1)
 				)
 			)
@@ -33274,7 +33275,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001161")
-		(property "Reference" "K_6"
+		(property "Reference" "K_117"
 			(at 52.07 212.5218 0)
 			(hide yes)
 			(show_name no)
@@ -33296,7 +33297,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 52.07 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -33344,7 +33345,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_6")
+					(reference "K_117")
 					(unit 1)
 				)
 			)
@@ -33373,7 +33374,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001170")
-		(property "Reference" "D_17"
+		(property "Reference" "D_118"
 			(at 106.68 223.012 90)
 			(hide yes)
 			(show_name no)
@@ -33467,7 +33468,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_17")
+					(reference "D_118")
 					(unit 1)
 				)
 			)
@@ -33496,7 +33497,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001171")
-		(property "Reference" "K_17"
+		(property "Reference" "K_118"
 			(at 102.87 212.5218 0)
 			(hide yes)
 			(show_name no)
@@ -33518,7 +33519,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 102.87 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -33566,7 +33567,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_17")
+					(reference "K_118")
 					(unit 1)
 				)
 			)
@@ -33595,7 +33596,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001180")
-		(property "Reference" "D_30"
+		(property "Reference" "D_119"
 			(at 157.48 223.012 90)
 			(hide yes)
 			(show_name no)
@@ -33689,7 +33690,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_30")
+					(reference "D_119")
 					(unit 1)
 				)
 			)
@@ -33718,7 +33719,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001181")
-		(property "Reference" "K_30"
+		(property "Reference" "K_119"
 			(at 153.67 212.5218 0)
 			(hide yes)
 			(show_name no)
@@ -33740,7 +33741,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 153.67 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -33788,7 +33789,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_30")
+					(reference "K_119")
 					(unit 1)
 				)
 			)
@@ -33817,7 +33818,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001190")
-		(property "Reference" "D_37"
+		(property "Reference" "D_120"
 			(at 182.88 223.012 90)
 			(hide yes)
 			(show_name no)
@@ -33911,7 +33912,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_37")
+					(reference "D_120")
 					(unit 1)
 				)
 			)
@@ -33940,7 +33941,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001191")
-		(property "Reference" "K_37"
+		(property "Reference" "K_120"
 			(at 179.07 212.5218 0)
 			(hide yes)
 			(show_name no)
@@ -33962,7 +33963,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 179.07 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -34010,7 +34011,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_37")
+					(reference "K_120")
 					(unit 1)
 				)
 			)
@@ -34039,7 +34040,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001200")
-		(property "Reference" "D_44"
+		(property "Reference" "D_121"
 			(at 208.28 223.012 90)
 			(hide yes)
 			(show_name no)
@@ -34133,7 +34134,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_44")
+					(reference "D_121")
 					(unit 1)
 				)
 			)
@@ -34162,7 +34163,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001201")
-		(property "Reference" "K_44"
+		(property "Reference" "K_121"
 			(at 204.47 212.5218 0)
 			(hide yes)
 			(show_name no)
@@ -34184,7 +34185,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 204.47 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -34232,7 +34233,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_44")
+					(reference "K_121")
 					(unit 1)
 				)
 			)
@@ -34261,7 +34262,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001210")
-		(property "Reference" "D_51"
+		(property "Reference" "D_122"
 			(at 233.68 223.012 90)
 			(hide yes)
 			(show_name no)
@@ -34355,7 +34356,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_51")
+					(reference "D_122")
 					(unit 1)
 				)
 			)
@@ -34384,7 +34385,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001211")
-		(property "Reference" "K_51"
+		(property "Reference" "K_122"
 			(at 229.87 212.5218 0)
 			(hide yes)
 			(show_name no)
@@ -34406,7 +34407,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 229.87 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -34454,7 +34455,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_51")
+					(reference "K_122")
 					(unit 1)
 				)
 			)
@@ -34483,7 +34484,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001220")
-		(property "Reference" "D_70"
+		(property "Reference" "D_123"
 			(at 335.28 223.012 90)
 			(hide yes)
 			(show_name no)
@@ -34577,7 +34578,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_70")
+					(reference "D_123")
 					(unit 1)
 				)
 			)
@@ -34606,7 +34607,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001221")
-		(property "Reference" "K_70"
+		(property "Reference" "K_123"
 			(at 331.47 212.5218 0)
 			(hide yes)
 			(show_name no)
@@ -34628,7 +34629,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 331.47 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -34676,7 +34677,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_70")
+					(reference "K_123")
 					(unit 1)
 				)
 			)
@@ -34705,7 +34706,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001230")
-		(property "Reference" "D_89"
+		(property "Reference" "D_124"
 			(at 411.48 223.012 90)
 			(hide yes)
 			(show_name no)
@@ -34799,7 +34800,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_89")
+					(reference "D_124")
 					(unit 1)
 				)
 			)
@@ -34828,7 +34829,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001231")
-		(property "Reference" "K_89"
+		(property "Reference" "K_124"
 			(at 407.67 212.5218 0)
 			(hide yes)
 			(show_name no)
@@ -34850,7 +34851,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 407.67 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -34898,7 +34899,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_89")
+					(reference "K_124")
 					(unit 1)
 				)
 			)
@@ -34927,7 +34928,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001240")
-		(property "Reference" "D_102"
+		(property "Reference" "D_125"
 			(at 462.28 223.012 90)
 			(hide yes)
 			(show_name no)
@@ -35021,7 +35022,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_102")
+					(reference "D_125")
 					(unit 1)
 				)
 			)
@@ -35050,7 +35051,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001241")
-		(property "Reference" "K_102"
+		(property "Reference" "K_125"
 			(at 458.47 212.5218 0)
 			(hide yes)
 			(show_name no)
@@ -35072,7 +35073,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 458.47 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -35120,7 +35121,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_102")
+					(reference "K_125")
 					(unit 1)
 				)
 			)
@@ -35149,7 +35150,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001250")
-		(property "Reference" "D_118"
+		(property "Reference" "D_126"
 			(at 538.48 223.012 90)
 			(hide yes)
 			(show_name no)
@@ -35243,7 +35244,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_118")
+					(reference "D_126")
 					(unit 1)
 				)
 			)
@@ -35272,7 +35273,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001251")
-		(property "Reference" "K_118"
+		(property "Reference" "K_126"
 			(at 534.67 212.5218 0)
 			(hide yes)
 			(show_name no)
@@ -35294,7 +35295,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 534.67 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -35342,7 +35343,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_118")
+					(reference "K_126")
 					(unit 1)
 				)
 			)
@@ -35371,7 +35372,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001260")
-		(property "Reference" "D_124"
+		(property "Reference" "D_127"
 			(at 563.88 223.012 90)
 			(hide yes)
 			(show_name no)
@@ -35465,7 +35466,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "D_124")
+					(reference "D_127")
 					(unit 1)
 				)
 			)
@@ -35494,7 +35495,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-000000001261")
-		(property "Reference" "K_124"
+		(property "Reference" "K_127"
 			(at 560.07 212.5218 0)
 			(hide yes)
 			(show_name no)
@@ -35516,7 +35517,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 560.07 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -35564,7 +35565,7 @@
 			)
 			(project "1800122-V2"
 				(path "/3c8cdbab-d79f-47d1-899b-f7066c843456/d3eb5dd9-45e4-4336-8ad4-e0a2c39911d5"
-					(reference "K_124")
+					(reference "K_127")
 					(unit 1)
 				)
 			)
@@ -35738,7 +35739,7 @@
 				)
 			)
 		)
-		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_1.00u_PnP"
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 585.47 218.44 0)
 			(hide yes)
 			(show_name no)

@@ -28,7 +28,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "122-LIB:SW_Hotswap_Kailh_MX_Plated_1.00u_PnP"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
