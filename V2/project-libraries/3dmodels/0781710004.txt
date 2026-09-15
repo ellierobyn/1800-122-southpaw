@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-31012024-084383";"";
+"REFERENCE";"781710004";"";
+"TraceParts.PartTitle";"Pico-EZmate";"";
+"TraceParts.InstanceId";"90-31012024-0843832N3XX9WWY2MK673V115V3T3RA";"";
+"SUPPLIER";"Molex";"";
+"DESIGN";"1.20mm Pitch, Pico-EZmate PCB Header, Single Row, Gold Plating, Friction  Lock, 4 Circuits, Tape and Reel";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.3";"";
