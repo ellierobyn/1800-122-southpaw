@@ -148,6 +148,11 @@
 	(constraint hole_size (min 0.15mm))
 )
 
+(rule "DiffPair Ground Clearance"
+  (constraint clearance (min 2.325mm))
+  (condition "A.inDiffPair('*/USB_D*') && B.Type == 'Zone'"))
+
+
 
 # MIT License
 

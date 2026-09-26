@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 2.5,
-          "width": 3.55
+          "drill": 4.0,
+          "height": 4.0,
+          "width": 4.0
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -60,7 +60,7 @@
           "hatch_smoothing_level": 0,
           "hatch_smoothing_value": 0.1,
           "hatch_thickness": 1.0,
-          "min_clearance": 0.5,
+          "min_clearance": 0.15,
           "min_island_area": 10.0,
           "min_thickness": 0.25,
           "pad_connection": 1,
@@ -94,7 +94,7 @@
         "duplicate_footprints": "warning",
         "extra_footprint": "warning",
         "footprint": "error",
-        "footprint_filters_mismatch": "ignore",
+        "footprint_filters_mismatch": "error",
         "footprint_symbol_field_mismatch": "warning",
         "footprint_symbol_mismatch": "warning",
         "footprint_type_mismatch": "ignore",
@@ -212,6 +212,7 @@
       "track_widths": [
         0.0,
         0.1651,
+        0.2,
         0.3,
         0.5
       ],
@@ -529,9 +530,19 @@
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
         "tuning_profile": "",
-        "via_diameter": 0.6,
+        "via_diameter": 0.7,
         "via_drill": 0.3,
         "wire_width": 6
+      },
+      {
+        "clearance": 0.3,
+        "diff_pair_gap": 0.14,
+        "diff_pair_width": 0.7,
+        "name": "USB_90R",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "tuning_profile": ""
       }
     ],
     "meta": {
@@ -539,7 +550,16 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "USB_90R",
+        "pattern": "*/USB_D+*"
+      },
+      {
+        "netclass": "USB_90R",
+        "pattern": "*/USB_D-*"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
@@ -632,12 +652,6 @@
         },
         {
           "group_by": false,
-          "label": "Manufacturer Part",
-          "name": "Manufacturer Part",
-          "show": false
-        },
-        {
-          "group_by": false,
           "label": "Sim.Device",
           "name": "Sim.Device",
           "show": false
@@ -650,9 +664,9 @@
         },
         {
           "group_by": false,
-          "label": "LCSC",
-          "name": "LCSC",
-          "show": false
+          "label": "LCSC Part Number",
+          "name": "LCSC Part Number",
+          "show": true
         },
         {
           "group_by": false,
@@ -665,14 +679,74 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "package",
+          "name": "package",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "packaging",
+          "name": "packaging",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "part_uid",
+          "name": "part_uid",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "size",
+          "name": "size",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "z_height_max",
+          "name": "z_height_max",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "z_height_nom",
+          "name": "z_height_nom",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "operating_temp_max",
+          "name": "operating_temp_max",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "operating_temp_min",
+          "name": "operating_temp_min",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer Part Number",
+          "name": "Manufacturer Part Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "manufacturer_pn",
+          "name": "manufacturer_pn",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
       "name": "",
-      "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_asc": false,
+      "sort_field": "Description"
     },
     "bus_aliases": {},
     "connection_grid_size": 50.0,
@@ -723,7 +797,7 @@
         "uuid": "3c8cdbab-d79f-47d1-899b-f7066c843456"
       }
     ],
-    "used_designators": "",
+    "used_designators": "FID1-3",
     "variants": []
   },
   "sheets": [
